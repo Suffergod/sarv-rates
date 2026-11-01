@@ -1,13 +1,7 @@
 #!/usr/bin/env python3
 """
-Sarv Rates Engine
-=================
-Sovereign multi-tier live market price aggregator for Iranian financial assets.
-Aggregates official gold & coin indicators (TGJU), domestic exchange order books (Wallex, Nobitex),
-and mathematically derives the full Parsian coin series from spot 18k gold.
-
-Author: Suffergod (https://github.com/Suffergod)
-License: MIT
+Market rates sync for Sarv app.
+Fetches TGJU, Wallex, and Nobitex, derives Parsian coins, and dumps to data/*.json.
 """
 
 import json
@@ -373,7 +367,7 @@ def main():
     # 1. Full unified rates dictionary
     output_full = {
         "metadata": {
-            "name": "Sarv Rates API",
+            "name": "sarv-rates",
             "version": "1.0",
             "updatedAt": iso_time,
             "timestamp": timestamp,
