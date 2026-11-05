@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T03:21:07.377282+00:00",
+  "updatedAt": "2026-11-05T11:25:25.360654+00:00",
   "count": 22,
   "items": [
     {
@@ -69,8 +69,8 @@
     {
       "symbol": "ons",
       "titleFa": "انس جهانی طلا (دلار)",
-      "priceTomans": 3929,
-      "changePercentage24h": 0.18,
+      "priceTomans": 3948,
+      "changePercentage24h": 0.66,
       "category": "gold",
       "source": "TGJU"
     },
