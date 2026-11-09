@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T23:04:16.215481+00:00",
+  "updatedAt": "2026-11-09T02:41:59.773358+00:00",
   "count": 22,
   "items": [
     {
@@ -21,32 +21,32 @@
     {
       "symbol": "sekkeh",
       "titleFa": "سکه تمام بهار آزادی (امامی)",
-      "priceTomans": 257650000,
-      "changePercentage24h": 0.45,
+      "priceTomans": 257410000,
+      "changePercentage24h": 0.55,
       "category": "gold",
       "source": "TGJU"
     },
     {
       "symbol": "bahar",
       "titleFa": "سکه بهار آزادی (طرح قدیم)",
-      "priceTomans": 249155000,
-      "changePercentage24h": 0.81,
+      "priceTomans": 248420000,
+      "changePercentage24h": 1.11,
       "category": "gold",
       "source": "TGJU"
     },
     {
       "symbol": "nim",
       "titleFa": "نیم سکه بهار آزادی",
-      "priceTomans": 136510000,
-      "changePercentage24h": 0.12,
+      "priceTomans": 135530000,
+      "changePercentage24h": 0.84,
       "category": "gold",
       "source": "TGJU"
     },
     {
       "symbol": "rob",
       "titleFa": "ربع سکه بهار آزادی",
-      "priceTomans": 72260000,
-      "changePercentage24h": 0.33,
+      "priceTomans": 71730000,
+      "changePercentage24h": 1.07,
       "category": "gold",
       "source": "TGJU"
     },
@@ -61,7 +61,7 @@
     {
       "symbol": "abshodeh",
       "titleFa": "طلای آب‌شده (مثقال)",
-      "priceTomans": 110096000,
+      "priceTomans": 110102000,
       "changePercentage24h": 0.7,
       "category": "gold",
       "source": "TGJU"
