@@ -2,9 +2,9 @@
   "metadata": {
     "name": "sarv-rates",
     "version": "1.0",
-    "updatedAt": "2026-11-12T10:12:26.542509+00:00",
-    "timestamp": 1794478346,
-    "count": 204,
+    "updatedAt": "2026-11-12T18:23:31.137627+00:00",
+    "timestamp": 1794507811,
+    "count": 201,
     "sources": [
       "Wallex API",
       "TGJU Widget API",
@@ -16,40 +16,32 @@
     "xlm": {
       "symbol": "xlm",
       "titleFa": "استلار - تومان (XLM)",
-      "priceTomans": 39081,
-      "changePercentage24h": -1.81,
+      "priceTomans": 40360,
+      "changePercentage24h": -1.56,
       "category": "crypto",
       "source": "Wallex"
     },
     "ondo": {
       "symbol": "ondo",
       "titleFa": "اوندو - تومان (ONDO)",
-      "priceTomans": 93974,
-      "changePercentage24h": -2.28,
-      "category": "crypto",
-      "source": "Wallex"
-    },
-    "kaito": {
-      "symbol": "kaito",
-      "titleFa": "کایتو - تومان (KAITO)",
-      "priceTomans": 54409,
-      "changePercentage24h": 0.0,
+      "priceTomans": 93272,
+      "changePercentage24h": -4.41,
       "category": "crypto",
       "source": "Wallex"
     },
     "t": {
       "symbol": "t",
       "titleFa": "ترشولد - تومان (T)",
-      "priceTomans": 1156,
-      "changePercentage24h": 0.35,
+      "priceTomans": 1178,
+      "changePercentage24h": -1.67,
       "category": "crypto",
       "source": "Wallex"
     },
     "fet": {
       "symbol": "fet",
       "titleFa": "فچ ای‌آی - تومان (FET)",
-      "priceTomans": 39102,
-      "changePercentage24h": 1.83,
+      "priceTomans": 38616,
+      "changePercentage24h": -3.99,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -57,63 +49,55 @@
       "symbol": "mmt",
       "titleFa": "مومنتوم - تومان (MMT)",
       "priceTomans": 31545,
-      "changePercentage24h": -1.7,
+      "changePercentage24h": 0.02,
       "category": "crypto",
       "source": "Wallex"
     },
     "sand": {
       "symbol": "sand",
       "titleFa": "سندباکس - تومان (SAND)",
-      "priceTomans": 11061,
-      "changePercentage24h": -1.19,
-      "category": "crypto",
-      "source": "Wallex"
-    },
-    "lrc": {
-      "symbol": "lrc",
-      "titleFa": "لوپرینگ - تومان (LRC)",
-      "priceTomans": 1723,
-      "changePercentage24h": 0.0,
+      "priceTomans": 11068,
+      "changePercentage24h": -1.7,
       "category": "crypto",
       "source": "Wallex"
     },
     "jst": {
       "symbol": "jst",
       "titleFa": "جاست - تومان (JST)",
-      "priceTomans": 38425,
-      "changePercentage24h": 0.0,
+      "priceTomans": 38661,
+      "changePercentage24h": 0.61,
       "category": "crypto",
       "source": "Wallex"
     },
     "zen": {
       "symbol": "zen",
       "titleFa": "هورایزن - تومان (ZEN)",
-      "priceTomans": 1253270,
-      "changePercentage24h": -2.32,
+      "priceTomans": 1240578,
+      "changePercentage24h": -1.02,
       "category": "crypto",
       "source": "Wallex"
     },
     "aster": {
       "symbol": "aster",
       "titleFa": "آستار - تومان (ASTER)",
-      "priceTomans": 175989,
-      "changePercentage24h": 5.32,
+      "priceTomans": 180001,
+      "changePercentage24h": 3.09,
       "category": "crypto",
       "source": "Wallex"
     },
     "slvon": {
       "symbol": "slvon",
       "titleFa": "گواهی نقره دیجیتال - تومان (SLVON)",
-      "priceTomans": 12500800,
-      "changePercentage24h": 2.33,
+      "priceTomans": 12332003,
+      "changePercentage24h": 0.22,
       "category": "crypto",
       "source": "Wallex"
     },
     "render": {
       "symbol": "render",
       "titleFa": "رندر - تومان (RENDER)",
-      "priceTomans": 403408,
-      "changePercentage24h": -1.18,
+      "priceTomans": 393113,
+      "changePercentage24h": -1.86,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -128,16 +112,16 @@
     "io": {
       "symbol": "io",
       "titleFa": "آی‌او دات نت - تومان (IO)",
-      "priceTomans": 30127,
-      "changePercentage24h": -4.23,
+      "priceTomans": 30616,
+      "changePercentage24h": -2.23,
       "category": "crypto",
       "source": "Wallex"
     },
     "soon": {
       "symbol": "soon",
       "titleFa": "سون - تومان (SOON)",
-      "priceTomans": 62134,
-      "changePercentage24h": 3.16,
+      "priceTomans": 62640,
+      "changePercentage24h": 0.81,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -145,7 +129,7 @@
       "symbol": "1bbabydoge",
       "titleFa": "۱میلیارد بیبی دوج - تومان (1BBABYDOGE)",
       "priceTomans": 76718,
-      "changePercentage24h": 1.56,
+      "changePercentage24h": -1.46,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -153,7 +137,7 @@
       "symbol": "pepe",
       "titleFa": "پپه - تومان (PEPE)",
       "priceTomans": 1,
-      "changePercentage24h": -9.57,
+      "changePercentage24h": -9.51,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -161,31 +145,31 @@
       "symbol": "zora",
       "titleFa": "زورا - تومان (ZORA)",
       "priceTomans": 1258,
-      "changePercentage24h": -0.96,
+      "changePercentage24h": 0.0,
       "category": "crypto",
       "source": "Wallex"
     },
     "magic": {
       "symbol": "magic",
       "titleFa": "ترژر - تومان (MAGIC)",
-      "priceTomans": 21057,
-      "changePercentage24h": -2.2,
+      "priceTomans": 21641,
+      "changePercentage24h": -0.13,
       "category": "crypto",
       "source": "Wallex"
     },
     "chz": {
       "symbol": "chz",
       "titleFa": "چیلیز - تومان (CHZ)",
-      "priceTomans": 2807,
-      "changePercentage24h": 0.25,
+      "priceTomans": 2849,
+      "changePercentage24h": 0.07,
       "category": "crypto",
       "source": "Wallex"
     },
     "kmno": {
       "symbol": "kmno",
       "titleFa": "کامینو فایننس - تومان (KMNO)",
-      "priceTomans": 8252,
-      "changePercentage24h": -2.54,
+      "priceTomans": 8560,
+      "changePercentage24h": 1.1,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -200,200 +184,184 @@
     "turbo": {
       "symbol": "turbo",
       "titleFa": "توربو - تومان (TURBO)",
-      "priceTomans": 179,
-      "changePercentage24h": 4.68,
+      "priceTomans": 183,
+      "changePercentage24h": 1.67,
       "category": "crypto",
       "source": "Wallex"
     },
     "wld": {
       "symbol": "wld",
       "titleFa": "ورلد کوین - تومان (WLD)",
-      "priceTomans": 81776,
-      "changePercentage24h": 0.74,
+      "priceTomans": 81439,
+      "changePercentage24h": -2.01,
       "category": "crypto",
       "source": "Wallex"
     },
     "xaut": {
       "symbol": "xaut",
       "titleFa": "تترگلد - تومان (XAUT)",
-      "priceTomans": 1053545804,
-      "changePercentage24h": -0.02,
+      "priceTomans": 1050054913,
+      "changePercentage24h": -0.05,
       "category": "crypto",
       "source": "Wallex"
     },
     "xrp": {
       "symbol": "xrp",
       "titleFa": "ریپل - تومان (XRP)",
-      "priceTomans": 281689,
-      "changePercentage24h": 1.83,
+      "priceTomans": 278162,
+      "changePercentage24h": -1.68,
       "category": "crypto",
       "source": "Wallex"
     },
     "ape": {
       "symbol": "ape",
       "titleFa": "ایپ کوین - تومان (APE)",
-      "priceTomans": 24870,
-      "changePercentage24h": -3.11,
+      "priceTomans": 24995,
+      "changePercentage24h": -4.04,
       "category": "crypto",
       "source": "Wallex"
     },
     "rune": {
       "symbol": "rune",
       "titleFa": "ثور چین - تومان (RUNE)",
-      "priceTomans": 157201,
-      "changePercentage24h": -0.15,
+      "priceTomans": 157528,
+      "changePercentage24h": 3.18,
       "category": "crypto",
       "source": "Wallex"
     },
     "atom": {
       "symbol": "atom",
       "titleFa": "کازماس - تومان (ATOM)",
-      "priceTomans": 374424,
-      "changePercentage24h": 1.47,
+      "priceTomans": 382753,
+      "changePercentage24h": 1.82,
       "category": "crypto",
       "source": "Wallex"
     },
     "usoon": {
       "symbol": "usoon",
       "titleFa": "گواهی نفت دیجیتال - تومان (USOON)",
-      "priceTomans": 38194993,
-      "changePercentage24h": 0.36,
+      "priceTomans": 40391258,
+      "changePercentage24h": 5.24,
       "category": "crypto",
       "source": "Wallex"
     },
     "doge": {
       "symbol": "doge",
       "titleFa": "دوج کوین - تومان (DOGE)",
-      "priceTomans": 17992,
-      "changePercentage24h": 1.38,
+      "priceTomans": 17920,
+      "changePercentage24h": -1.65,
       "category": "crypto",
       "source": "Wallex"
     },
     "near": {
       "symbol": "near",
       "titleFa": "نیر پروتکل - تومان (NEAR)",
-      "priceTomans": 937043,
-      "changePercentage24h": -1.34,
+      "priceTomans": 922545,
+      "changePercentage24h": -6.51,
       "category": "crypto",
       "source": "Wallex"
     },
     "sahara": {
       "symbol": "sahara",
       "titleFa": "ساهارا ای‌آی - تومان (SAHARA)",
-      "priceTomans": 1571,
-      "changePercentage24h": 0.13,
+      "priceTomans": 1555,
+      "changePercentage24h": -4.31,
       "category": "crypto",
       "source": "Wallex"
     },
     "mask": {
       "symbol": "mask",
       "titleFa": "ماسک نتورک - تومان (MASK)",
-      "priceTomans": 93539,
-      "changePercentage24h": 0.08,
+      "priceTomans": 94726,
+      "changePercentage24h": 1.27,
       "category": "crypto",
       "source": "Wallex"
     },
     "wif": {
       "symbol": "wif",
       "titleFa": "داگ ویف هت - تومان (WIF)",
-      "priceTomans": 40561,
-      "changePercentage24h": -2.92,
+      "priceTomans": 40480,
+      "changePercentage24h": 1.53,
       "category": "crypto",
       "source": "Wallex"
     },
     "eth": {
       "symbol": "eth",
       "titleFa": "اتریوم - تومان (ETH)",
-      "priceTomans": 546750873,
-      "changePercentage24h": 1.65,
+      "priceTomans": 544302654,
+      "changePercentage24h": -1.18,
       "category": "crypto",
       "source": "Wallex"
     },
     "morpho": {
       "symbol": "morpho",
       "titleFa": "مورفو - تومان (MORPHO)",
-      "priceTomans": 522156,
-      "changePercentage24h": 0.0,
+      "priceTomans": 534906,
+      "changePercentage24h": 1.48,
       "category": "crypto",
       "source": "Wallex"
     },
     "grt": {
       "symbol": "grt",
       "titleFa": "گراف - تومان (GRT)",
-      "priceTomans": 4488,
-      "changePercentage24h": -2.03,
+      "priceTomans": 4619,
+      "changePercentage24h": -2.24,
       "category": "crypto",
       "source": "Wallex"
     },
     "skl": {
       "symbol": "skl",
       "titleFa": "اسکیل - تومان (SKL)",
-      "priceTomans": 908,
-      "changePercentage24h": -1.73,
-      "category": "crypto",
-      "source": "Wallex"
-    },
-    "snx": {
-      "symbol": "snx",
-      "titleFa": "سینتِتیکس - تومان (SNX)",
-      "priceTomans": 42548,
-      "changePercentage24h": 0.0,
+      "priceTomans": 900,
+      "changePercentage24h": -2.6,
       "category": "crypto",
       "source": "Wallex"
     },
     "tia": {
       "symbol": "tia",
       "titleFa": "سلستیا - تومان (TIA)",
-      "priceTomans": 104806,
-      "changePercentage24h": -8.52,
+      "priceTomans": 113839,
+      "changePercentage24h": 0.43,
       "category": "crypto",
       "source": "Wallex"
     },
     "hmstr": {
       "symbol": "hmstr",
       "titleFa": "همستر کامبت - تومان (HMSTR)",
-      "priceTomans": 35,
-      "changePercentage24h": 1.76,
+      "priceTomans": 36,
+      "changePercentage24h": 3.43,
       "category": "crypto",
       "source": "Wallex"
     },
     "pengu": {
       "symbol": "pengu",
       "titleFa": "پاجی پنگوئن - تومان (PENGU)",
-      "priceTomans": 1647,
-      "changePercentage24h": 0.61,
+      "priceTomans": 1653,
+      "changePercentage24h": -1.55,
       "category": "crypto",
       "source": "Wallex"
     },
     "pols": {
       "symbol": "pols",
       "titleFa": "پولکا استارتر - تومان (POLS)",
-      "priceTomans": 13100,
-      "changePercentage24h": -0.76,
+      "priceTomans": 12399,
+      "changePercentage24h": -6.07,
       "category": "crypto",
       "source": "Wallex"
     },
     "btc": {
       "symbol": "btc",
       "titleFa": "بیت کوین - تومان (BTC)",
-      "priceTomans": 19576971437,
-      "changePercentage24h": 1.64,
+      "priceTomans": 19461050881,
+      "changePercentage24h": -0.83,
       "category": "crypto",
       "source": "Wallex"
     },
     "alice": {
       "symbol": "alice",
       "titleFa": "آلیس - تومان (ALICE)",
-      "priceTomans": 31151,
-      "changePercentage24h": -0.48,
-      "category": "crypto",
-      "source": "Wallex"
-    },
-    "dydx": {
-      "symbol": "dydx",
-      "titleFa": "دی وای دی ایکس - تومان (DYDX)",
-      "priceTomans": 23737,
-      "changePercentage24h": 1.8,
+      "priceTomans": 31344,
+      "changePercentage24h": -0.9,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -405,19 +373,27 @@
       "category": "crypto",
       "source": "Wallex"
     },
+    "dydx": {
+      "symbol": "dydx",
+      "titleFa": "دی وای دی ایکس - تومان (DYDX)",
+      "priceTomans": 23737,
+      "changePercentage24h": -1.77,
+      "category": "crypto",
+      "source": "Wallex"
+    },
     "linea": {
       "symbol": "linea",
       "titleFa": "لینیا - تومان (LINEA)",
-      "priceTomans": 541,
-      "changePercentage24h": 0.93,
+      "priceTomans": 547,
+      "changePercentage24h": -1.08,
       "category": "crypto",
       "source": "Wallex"
     },
     "xpl": {
       "symbol": "xpl",
       "titleFa": "پلاسما - تومان (XPL)",
-      "priceTomans": 13001,
-      "changePercentage24h": -6.8,
+      "priceTomans": 13130,
+      "changePercentage24h": 0.99,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -429,11 +405,19 @@
       "category": "crypto",
       "source": "Wallex"
     },
+    "zrx": {
+      "symbol": "zrx",
+      "titleFa": "زیرو ایکس پروتکل - تومان (ZRX)",
+      "priceTomans": 23249,
+      "changePercentage24h": 0.11,
+      "category": "crypto",
+      "source": "Wallex"
+    },
     "egld": {
       "symbol": "egld",
       "titleFa": "مولتی ورس ایکس - تومان (EGLD)",
-      "priceTomans": 771973,
-      "changePercentage24h": -1.05,
+      "priceTomans": 751000,
+      "changePercentage24h": -2.72,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -441,54 +425,54 @@
       "symbol": "meme",
       "titleFa": "میم کوین - تومان (MEME)",
       "priceTomans": 99,
-      "changePercentage24h": 0.0,
+      "changePercentage24h": -1.0,
       "category": "crypto",
       "source": "Wallex"
     },
     "tnsr": {
       "symbol": "tnsr",
       "titleFa": "تنسور - تومان (TNSR)",
-      "priceTomans": 6460,
-      "changePercentage24h": 0.94,
+      "priceTomans": 6587,
+      "changePercentage24h": 2.57,
       "category": "crypto",
       "source": "Wallex"
     },
     "pol": {
       "symbol": "pol",
       "titleFa": "پل (متیک) - تومان (POL)",
-      "priceTomans": 24440,
-      "changePercentage24h": 1.88,
+      "priceTomans": 23993,
+      "changePercentage24h": -0.84,
       "category": "crypto",
       "source": "Wallex"
     },
     "arb": {
       "symbol": "arb",
       "titleFa": "اربیتروم - تومان (ARB)",
-      "priceTomans": 39865,
-      "changePercentage24h": -4.02,
+      "priceTomans": 39975,
+      "changePercentage24h": -4.7,
       "category": "crypto",
       "source": "Wallex"
     },
     "prove": {
       "symbol": "prove",
       "titleFa": "ساکسینکت - تومان (PROVE)",
-      "priceTomans": 45954,
-      "changePercentage24h": 7.55,
+      "priceTomans": 43636,
+      "changePercentage24h": -5.04,
       "category": "crypto",
       "source": "Wallex"
     },
     "bnb": {
       "symbol": "bnb",
       "titleFa": "بایننس کوین - تومان (BNB)",
-      "priceTomans": 179722343,
-      "changePercentage24h": 1.1,
+      "priceTomans": 177623139,
+      "changePercentage24h": -2.27,
       "category": "crypto",
       "source": "Wallex"
     },
     "virtual": {
       "symbol": "virtual",
       "titleFa": "ویرچوال پروتکل - تومان (VIRTUAL)",
-      "priceTomans": 140993,
+      "priceTomans": 126884,
       "changePercentage24h": 0.0,
       "category": "crypto",
       "source": "Wallex"
@@ -496,56 +480,56 @@
     "toshi": {
       "symbol": "toshi",
       "titleFa": "توشی - تومان (TOSHI)",
-      "priceTomans": 26,
-      "changePercentage24h": 12.17,
+      "priceTomans": 24,
+      "changePercentage24h": 4.71,
       "category": "crypto",
       "source": "Wallex"
     },
     "bome": {
       "symbol": "bome",
       "titleFa": " بوک آف میم - تومان (BOME)",
-      "priceTomans": 157,
-      "changePercentage24h": -1.94,
+      "priceTomans": 152,
+      "changePercentage24h": -5.78,
       "category": "crypto",
       "source": "Wallex"
     },
     "enj": {
       "symbol": "enj",
       "titleFa": "انجین کوین - تومان (ENJ)",
-      "priceTomans": 5552,
-      "changePercentage24h": -6.88,
+      "priceTomans": 5597,
+      "changePercentage24h": -9.02,
       "category": "crypto",
       "source": "Wallex"
     },
     "avax": {
       "symbol": "avax",
       "titleFa": "اوالانچ - تومان (AVAX)",
-      "priceTomans": 2315000,
-      "changePercentage24h": 2.81,
+      "priceTomans": 2256350,
+      "changePercentage24h": -1.17,
       "category": "crypto",
       "source": "Wallex"
     },
     "bat": {
       "symbol": "bat",
       "titleFa": "بیسیک اتنشن توکن - تومان (BAT)",
-      "priceTomans": 33059,
-      "changePercentage24h": 1.69,
+      "priceTomans": 32437,
+      "changePercentage24h": 0.49,
       "category": "crypto",
       "source": "Wallex"
     },
     "gram": {
       "symbol": "gram",
       "titleFa": "گرام - تومان (GRAM)",
-      "priceTomans": 331254,
-      "changePercentage24h": 6.4,
+      "priceTomans": 328012,
+      "changePercentage24h": 2.78,
       "category": "crypto",
       "source": "Wallex"
     },
     "copxon": {
       "symbol": "copxon",
       "titleFa": "گواهی مس دیجیتال - تومان (COPXON)",
-      "priceTomans": 20550000,
-      "changePercentage24h": 3.8,
+      "priceTomans": 20335115,
+      "changePercentage24h": -1.29,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -553,23 +537,23 @@
       "symbol": "uma",
       "titleFa": "اوما - تومان (UMA)",
       "priceTomans": 79565,
-      "changePercentage24h": -0.01,
+      "changePercentage24h": -0.2,
       "category": "crypto",
       "source": "Wallex"
     },
     "crv": {
       "symbol": "crv",
       "titleFa": "کرو دائو توکن - تومان (CRV)",
-      "priceTomans": 62925,
-      "changePercentage24h": -1.4,
+      "priceTomans": 63897,
+      "changePercentage24h": -1.88,
       "category": "crypto",
       "source": "Wallex"
     },
     "sei": {
       "symbol": "sei",
       "titleFa": "سی - تومان (SEI)",
-      "priceTomans": 11356,
-      "changePercentage24h": -0.39,
+      "priceTomans": 11360,
+      "changePercentage24h": 1.12,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -577,15 +561,23 @@
       "symbol": "floki",
       "titleFa": "فلوکی اینو - تومان (FLOKI)",
       "priceTomans": 5,
-      "changePercentage24h": -0.11,
+      "changePercentage24h": -1.8,
       "category": "crypto",
       "source": "Wallex"
     },
     "cake": {
       "symbol": "cake",
       "titleFa": "پنکیک سواپ - تومان (CAKE)",
-      "priceTomans": 482283,
-      "changePercentage24h": 1.34,
+      "priceTomans": 473505,
+      "changePercentage24h": -2.16,
+      "category": "crypto",
+      "source": "Wallex"
+    },
+    "icp": {
+      "symbol": "icp",
+      "titleFa": "اینترنت کامپیوتر - تومان (ICP)",
+      "priceTomans": 696022,
+      "changePercentage24h": 0.05,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -593,95 +585,87 @@
       "symbol": "dogs",
       "titleFa": "داگز - تومان (DOGS)",
       "priceTomans": 8,
-      "changePercentage24h": -1.08,
-      "category": "crypto",
-      "source": "Wallex"
-    },
-    "icp": {
-      "symbol": "icp",
-      "titleFa": "اینترنت کامپیوتر - تومان (ICP)",
-      "priceTomans": 689767,
-      "changePercentage24h": 3.81,
+      "changePercentage24h": -1.57,
       "category": "crypto",
       "source": "Wallex"
     },
     "celr": {
       "symbol": "celr",
       "titleFa": "سلر نتورک - تومان (CELR)",
-      "priceTomans": 517,
-      "changePercentage24h": -5.31,
+      "priceTomans": 544,
+      "changePercentage24h": -1.27,
       "category": "crypto",
       "source": "Wallex"
     },
     "dexe": {
       "symbol": "dexe",
       "titleFa": "دکسی - تومان (DEXE)",
-      "priceTomans": 322999,
-      "changePercentage24h": 0.23,
+      "priceTomans": 324925,
+      "changePercentage24h": -2.07,
       "category": "crypto",
       "source": "Wallex"
     },
     "nmr": {
       "symbol": "nmr",
       "titleFa": "نومرایر - تومان (NMR)",
-      "priceTomans": 2330981,
-      "changePercentage24h": 0.0,
+      "priceTomans": 2362481,
+      "changePercentage24h": 1.35,
       "category": "crypto",
       "source": "Wallex"
     },
     "bico": {
       "symbol": "bico",
       "titleFa": "بایکونومی - تومان (BICO)",
-      "priceTomans": 3405,
-      "changePercentage24h": -1.99,
+      "priceTomans": 3391,
+      "changePercentage24h": -8.13,
       "category": "crypto",
       "source": "Wallex"
     },
     "met": {
       "symbol": "met",
       "titleFa": "متئورا - تومان (MET)",
-      "priceTomans": 75381,
-      "changePercentage24h": -1.85,
+      "priceTomans": 76774,
+      "changePercentage24h": -1.09,
       "category": "crypto",
       "source": "Wallex"
     },
     "flr": {
       "symbol": "flr",
       "titleFa": "فلِر - تومان (FLR)",
-      "priceTomans": 1359,
-      "changePercentage24h": -3.07,
+      "priceTomans": 1426,
+      "changePercentage24h": 4.93,
       "category": "crypto",
       "source": "Wallex"
     },
     "dash": {
       "symbol": "dash",
       "titleFa": "دَش - تومان (DASH)",
-      "priceTomans": 11126597,
-      "changePercentage24h": -2.2,
+      "priceTomans": 11055338,
+      "changePercentage24h": -4.09,
       "category": "crypto",
       "source": "Wallex"
     },
     "pump": {
       "symbol": "pump",
       "titleFa": "پامپ فان - تومان (PUMP)",
-      "priceTomans": 926,
-      "changePercentage24h": 0.54,
+      "priceTomans": 918,
+      "changePercentage24h": -3.37,
       "category": "crypto",
       "source": "Wallex"
     },
     "aevo": {
       "symbol": "aevo",
       "titleFa": "آئوو - تومان (AEVO)",
-      "priceTomans": 4893,
-      "changePercentage24h": 1.12,
+      "priceTomans": 4947,
+      "changePercentage24h": 1.1,
       "category": "crypto",
       "source": "Wallex"
     },
     "sushi": {
       "symbol": "sushi",
       "titleFa": "سوشی سواپ - تومان (SUSHI)",
-      "priceTomans": 45337,
-      "changePercentage24h": -1.79,
+      "priceTomans": 45574,
+      "changePercentage24h": -0.84,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -689,15 +673,15 @@
       "symbol": "hot",
       "titleFa": "هولو - تومان (HOT)",
       "priceTomans": 106,
-      "changePercentage24h": -1.09,
+      "changePercentage24h": -3.7,
       "category": "crypto",
       "source": "Wallex"
     },
     "people": {
       "symbol": "people",
       "titleFa": "کانستیتوشن دائو - تومان (PEOPLE)",
-      "priceTomans": 1488,
-      "changePercentage24h": -0.4,
+      "priceTomans": 1483,
+      "changePercentage24h": -2.37,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -705,183 +689,175 @@
       "symbol": "not",
       "titleFa": "نات کوین - تومان (NOT)",
       "priceTomans": 88,
-      "changePercentage24h": 2.7,
+      "changePercentage24h": 0.92,
       "category": "crypto",
       "source": "Wallex"
     },
     "strk": {
       "symbol": "strk",
       "titleFa": "استارک نت - تومان (STRK)",
-      "priceTomans": 9718,
-      "changePercentage24h": -0.4,
+      "priceTomans": 9843,
+      "changePercentage24h": -1.97,
       "category": "crypto",
       "source": "Wallex"
     },
     "zec": {
       "symbol": "zec",
       "titleFa": "زی کش - تومان (ZEC)",
-      "priceTomans": 265924163,
-      "changePercentage24h": 2.28,
+      "priceTomans": 261999999,
+      "changePercentage24h": -5.76,
       "category": "crypto",
       "source": "Wallex"
     },
     "ray": {
       "symbol": "ray",
       "titleFa": "ریدیوم - تومان (RAY)",
-      "priceTomans": 418485,
-      "changePercentage24h": -2.76,
-      "category": "crypto",
-      "source": "Wallex"
-    },
-    "layer": {
-      "symbol": "layer",
-      "titleFa": "سولیر - تومان (LAYER)",
-      "priceTomans": 13472,
-      "changePercentage24h": 2.15,
+      "priceTomans": 424542,
+      "changePercentage24h": -2.97,
       "category": "crypto",
       "source": "Wallex"
     },
     "trb": {
       "symbol": "trb",
       "titleFa": "تلور - تومان (TRB)",
-      "priceTomans": 3993023,
-      "changePercentage24h": 1.45,
+      "priceTomans": 3944395,
+      "changePercentage24h": -1.22,
       "category": "crypto",
       "source": "Wallex"
     },
     "a": {
       "symbol": "a",
       "titleFa": "والتا - تومان (A)",
-      "priceTomans": 19350,
-      "changePercentage24h": 0.08,
+      "priceTomans": 19505,
+      "changePercentage24h": -0.14,
       "category": "crypto",
       "source": "Wallex"
     },
     "pyth": {
       "symbol": "pyth",
       "titleFa": "پیث نتورک - تومان (PYTH)",
-      "priceTomans": 17373,
-      "changePercentage24h": -1.12,
+      "priceTomans": 16835,
+      "changePercentage24h": -4.07,
       "category": "crypto",
       "source": "Wallex"
     },
     "qnt": {
       "symbol": "qnt",
       "titleFa": "کوانت - تومان (QNT)",
-      "priceTomans": 44034048,
-      "changePercentage24h": -5.0,
+      "priceTomans": 44208121,
+      "changePercentage24h": -7.24,
       "category": "crypto",
       "source": "Wallex"
     },
     "ena": {
       "symbol": "ena",
       "titleFa": "اتنا - تومان (ENA)",
-      "priceTomans": 37658,
-      "changePercentage24h": -5.29,
+      "priceTomans": 37325,
+      "changePercentage24h": -6.08,
       "category": "crypto",
       "source": "Wallex"
     },
     "w": {
       "symbol": "w",
       "titleFa": "W - تومان (W)",
-      "priceTomans": 2700,
-      "changePercentage24h": -3.57,
+      "priceTomans": 2680,
+      "changePercentage24h": -3.74,
       "category": "crypto",
       "source": "Wallex"
     },
     "trx": {
       "symbol": "trx",
       "titleFa": "ترون - تومان (TRX)",
-      "priceTomans": 85299,
-      "changePercentage24h": 1.59,
+      "priceTomans": 86400,
+      "changePercentage24h": 2.08,
       "category": "crypto",
       "source": "Wallex"
     },
     "eigen": {
       "symbol": "eigen",
       "titleFa": "آیگن لیر - تومان (EIGEN)",
-      "priceTomans": 41500,
-      "changePercentage24h": -0.67,
+      "priceTomans": 41346,
+      "changePercentage24h": -3.94,
       "category": "crypto",
       "source": "Wallex"
     },
     "sui": {
       "symbol": "sui",
       "titleFa": "سالمونشن - تومان (SUI)",
-      "priceTomans": 217720,
-      "changePercentage24h": 1.06,
+      "priceTomans": 216862,
+      "changePercentage24h": -2.8,
       "category": "crypto",
       "source": "Wallex"
     },
     "orca": {
       "symbol": "orca",
       "titleFa": "اورکا - تومان (ORCA)",
-      "priceTomans": 327340,
-      "changePercentage24h": 0.89,
+      "priceTomans": 327911,
+      "changePercentage24h": -2.7,
       "category": "crypto",
       "source": "Wallex"
     },
     "bch": {
       "symbol": "bch",
       "titleFa": "بیت کوین کش - تومان (BCH)",
-      "priceTomans": 60934452,
-      "changePercentage24h": 1.92,
+      "priceTomans": 61013506,
+      "changePercentage24h": -0.51,
       "category": "crypto",
       "source": "Wallex"
     },
     "tao": {
       "symbol": "tao",
       "titleFa": "بیتنسور - تومان (TAO)",
-      "priceTomans": 56796619,
-      "changePercentage24h": -1.69,
+      "priceTomans": 56404040,
+      "changePercentage24h": -4.17,
       "category": "crypto",
       "source": "Wallex"
     },
     "aero": {
       "symbol": "aero",
       "titleFa": "آئرودروم فایننس - تومان (AERO)",
-      "priceTomans": 145580,
-      "changePercentage24h": 3.18,
+      "priceTomans": 141666,
+      "changePercentage24h": 1.13,
       "category": "crypto",
       "source": "Wallex"
     },
     "cati": {
       "symbol": "cati",
       "titleFa": "کتیزن - تومان (CATI)",
-      "priceTomans": 10105,
-      "changePercentage24h": 3.55,
+      "priceTomans": 9500,
+      "changePercentage24h": -4.11,
       "category": "crypto",
       "source": "Wallex"
     },
     "ltc": {
       "symbol": "ltc",
       "titleFa": "لایت کوین - تومان (LTC)",
-      "priceTomans": 13277329,
-      "changePercentage24h": -0.32,
+      "priceTomans": 13473672,
+      "changePercentage24h": -0.47,
       "category": "crypto",
       "source": "Wallex"
     },
     "ungon": {
       "symbol": "ungon",
       "titleFa": "گواهی گاز طبیعی دیجیتال - تومان (UNGON)",
-      "priceTomans": 2702394,
-      "changePercentage24h": 0.35,
+      "priceTomans": 2840000,
+      "changePercentage24h": 7.07,
       "category": "crypto",
       "source": "Wallex"
     },
     "yfi": {
       "symbol": "yfi",
       "titleFa": "یرن فایننس - تومان (YFI)",
-      "priceTomans": 496845115,
-      "changePercentage24h": -2.05,
+      "priceTomans": 495160880,
+      "changePercentage24h": -2.72,
       "category": "crypto",
       "source": "Wallex"
     },
     "hype": {
       "symbol": "hype",
       "titleFa": "هایپر لیکویید - تومان (HYPE)",
-      "priceTomans": 19110851,
-      "changePercentage24h": 1.03,
+      "priceTomans": 19307224,
+      "changePercentage24h": -0.87,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -889,7 +865,7 @@
       "symbol": "major",
       "titleFa": "میجر - تومان (MAJOR)",
       "priceTomans": 7328,
-      "changePercentage24h": -2.91,
+      "changePercentage24h": -1.64,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -897,39 +873,39 @@
       "symbol": "super",
       "titleFa": "سوپرورس - تومان (SUPER)",
       "priceTomans": 41208,
-      "changePercentage24h": -0.58,
+      "changePercentage24h": -1.19,
       "category": "crypto",
       "source": "Wallex"
     },
     "xmr": {
       "symbol": "xmr",
       "titleFa": "مونرو - تومان (XMR)",
-      "priceTomans": 148737503,
-      "changePercentage24h": -1.34,
+      "priceTomans": 146259804,
+      "changePercentage24h": -5.51,
       "category": "crypto",
       "source": "Wallex"
     },
     "giggle": {
       "symbol": "giggle",
       "titleFa": "گیگل فاند - تومان (GIGGLE)",
-      "priceTomans": 7428713,
-      "changePercentage24h": 1.34,
+      "priceTomans": 7159563,
+      "changePercentage24h": 0.0,
       "category": "crypto",
       "source": "Wallex"
     },
     "uni": {
       "symbol": "uni",
       "titleFa": "یونی سوآپ - تومان (UNI)",
-      "priceTomans": 1645234,
-      "changePercentage24h": -1.28,
+      "priceTomans": 1625897,
+      "changePercentage24h": -6.36,
       "category": "crypto",
       "source": "Wallex"
     },
     "zil": {
       "symbol": "zil",
       "titleFa": "زیلیکا - تومان (ZIL)",
-      "priceTomans": 407,
-      "changePercentage24h": -0.25,
+      "priceTomans": 416,
+      "changePercentage24h": -0.95,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -944,32 +920,32 @@
     "jup": {
       "symbol": "jup",
       "titleFa": "ژوپیتر - تومان (JUP)",
-      "priceTomans": 67415,
-      "changePercentage24h": 0.62,
-      "category": "crypto",
-      "source": "Wallex"
-    },
-    "move": {
-      "symbol": "move",
-      "titleFa": "موومنت - تومان (MOVE)",
-      "priceTomans": 1465,
-      "changePercentage24h": 0.69,
+      "priceTomans": 70762,
+      "changePercentage24h": 4.96,
       "category": "crypto",
       "source": "Wallex"
     },
     "ethfi": {
       "symbol": "ethfi",
       "titleFa": "اتر فای - تومان (ETHFI)",
-      "priceTomans": 163002,
-      "changePercentage24h": 0.15,
+      "priceTomans": 167983,
+      "changePercentage24h": 3.21,
+      "category": "crypto",
+      "source": "Wallex"
+    },
+    "move": {
+      "symbol": "move",
+      "titleFa": "موومنت - تومان (MOVE)",
+      "priceTomans": 1450,
+      "changePercentage24h": -1.02,
       "category": "crypto",
       "source": "Wallex"
     },
     "hbar": {
       "symbol": "hbar",
       "titleFa": "هدرا هشگراف - تومان (HBAR)",
-      "priceTomans": 17537,
-      "changePercentage24h": 2.1,
+      "priceTomans": 17165,
+      "changePercentage24h": -2.59,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -977,63 +953,71 @@
       "symbol": "bonk",
       "titleFa": "بونک - تومان (BONK)",
       "priceTomans": 1,
-      "changePercentage24h": -3.3,
+      "changePercentage24h": -5.06,
       "category": "crypto",
       "source": "Wallex"
     },
     "cgpt": {
       "symbol": "cgpt",
       "titleFa": "چین جی پی تی - تومان (CGPT)",
-      "priceTomans": 4416,
-      "changePercentage24h": -2.93,
+      "priceTomans": 4588,
+      "changePercentage24h": 3.86,
       "category": "crypto",
       "source": "Wallex"
     },
     "etc": {
       "symbol": "etc",
       "titleFa": "اتریوم کلاسیک - تومان (ETC)",
-      "priceTomans": 1736220,
-      "changePercentage24h": -0.79,
+      "priceTomans": 1771954,
+      "changePercentage24h": 2.06,
       "category": "crypto",
       "source": "Wallex"
     },
     "usdt": {
       "symbol": "usdt",
       "titleFa": "تتر - تومان (USDT)",
-      "priceTomans": 267498,
-      "changePercentage24h": 2.49,
+      "priceTomans": 270994,
+      "changePercentage24h": 2.69,
       "category": "crypto",
       "source": "Wallex"
     },
     "ada": {
       "symbol": "ada",
       "titleFa": "کاردانو - تومان (ADA)",
-      "priceTomans": 46462,
-      "changePercentage24h": 1.01,
+      "priceTomans": 46774,
+      "changePercentage24h": -0.91,
       "category": "crypto",
       "source": "Wallex"
     },
     "paxg": {
       "symbol": "paxg",
       "titleFa": "پکس گلد - تومان (PAXG)",
-      "priceTomans": 1037301958,
-      "changePercentage24h": 0.62,
+      "priceTomans": 1037301950,
+      "changePercentage24h": -2.01,
       "category": "crypto",
       "source": "Wallex"
     },
     "syrup": {
       "symbol": "syrup",
       "titleFa": "میپل فایننس - تومان (SYRUP)",
-      "priceTomans": 35999,
-      "changePercentage24h": 0.0,
+      "priceTomans": 33134,
+      "changePercentage24h": -7.96,
       "category": "crypto",
       "source": "Wallex"
     },
     "cookie": {
       "symbol": "cookie",
       "titleFa": "کوکی - تومان (COOKIE)",
-      "priceTomans": 2315,
-      "changePercentage24h": 4.66,
+      "priceTomans": 2263,
+      "changePercentage24h": -3.7,
+      "category": "crypto",
+      "source": "Wallex"
+    },
+    "aioz": {
+      "symbol": "aioz",
+      "titleFa": "آیوز نتورک - تومان (AIOZ)",
+      "priceTomans": 21683,
+      "changePercentage24h": 5.94,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -1041,47 +1025,39 @@
       "symbol": "slp",
       "titleFa": "اسموث لاو پوشن - تومان (SLP)",
       "priceTomans": 121,
-      "changePercentage24h": 0.05,
-      "category": "crypto",
-      "source": "Wallex"
-    },
-    "aioz": {
-      "symbol": "aioz",
-      "titleFa": "آیوز نتورک - تومان (AIOZ)",
-      "priceTomans": 20468,
-      "changePercentage24h": -8.8,
+      "changePercentage24h": -5.7,
       "category": "crypto",
       "source": "Wallex"
     },
     "gmt": {
       "symbol": "gmt",
       "titleFa": "استپ اِن - تومان (GMT)",
-      "priceTomans": 1600,
-      "changePercentage24h": 1.27,
+      "priceTomans": 1617,
+      "changePercentage24h": 6.87,
       "category": "crypto",
       "source": "Wallex"
     },
     "bank": {
       "symbol": "bank",
       "titleFa": "لورنزو پروتکل - تومان (BANK)",
-      "priceTomans": 5777,
-      "changePercentage24h": 0.66,
+      "priceTomans": 5776,
+      "changePercentage24h": -2.23,
       "category": "crypto",
       "source": "Wallex"
     },
     "axs": {
       "symbol": "axs",
       "titleFa": "اکسی اینفینیتی - تومان (AXS)",
-      "priceTomans": 211191,
-      "changePercentage24h": 1.36,
+      "priceTomans": 212776,
+      "changePercentage24h": 0.22,
       "category": "crypto",
       "source": "Wallex"
     },
     "sol": {
       "symbol": "sol",
       "titleFa": "سولانا - تومان (SOL)",
-      "priceTomans": 22304236,
-      "changePercentage24h": 2.61,
+      "priceTomans": 22077705,
+      "changePercentage24h": -1.9,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -1097,151 +1073,151 @@
       "symbol": "shib",
       "titleFa": "شیبا - تومان (SHIB)",
       "priceTomans": 1,
-      "changePercentage24h": 0.21,
+      "changePercentage24h": -1.19,
       "category": "crypto",
       "source": "Wallex"
     },
     "xtz": {
       "symbol": "xtz",
       "titleFa": "تزوس - تومان (XTZ)",
-      "priceTomans": 62754,
-      "changePercentage24h": -1.11,
+      "priceTomans": 63501,
+      "changePercentage24h": 0.27,
       "category": "crypto",
       "source": "Wallex"
     },
     "dot": {
       "symbol": "dot",
       "titleFa": "پولکادات - تومان (DOT)",
-      "priceTomans": 223559,
-      "changePercentage24h": 1.03,
+      "priceTomans": 222551,
+      "changePercentage24h": -2.11,
       "category": "crypto",
       "source": "Wallex"
     },
     "apt": {
       "symbol": "apt",
       "titleFa": "اپتوس - تومان (APT)",
-      "priceTomans": 152003,
-      "changePercentage24h": 1.4,
+      "priceTomans": 147247,
+      "changePercentage24h": -3.13,
       "category": "crypto",
       "source": "Wallex"
     },
     "kas": {
       "symbol": "kas",
       "titleFa": "کسپا - تومان (KAS)",
-      "priceTomans": 7874,
-      "changePercentage24h": 1.86,
-      "category": "crypto",
-      "source": "Wallex"
-    },
-    "1inch": {
-      "symbol": "1inch",
-      "titleFa": "وان اینچ - تومان (1INCH)",
-      "priceTomans": 19491,
-      "changePercentage24h": 0.42,
+      "priceTomans": 7686,
+      "changePercentage24h": -2.24,
       "category": "crypto",
       "source": "Wallex"
     },
     "sky": {
       "symbol": "sky",
       "titleFa": "اسکای - تومان (SKY)",
-      "priceTomans": 15400,
-      "changePercentage24h": -0.8,
+      "priceTomans": 15520,
+      "changePercentage24h": -1.28,
       "category": "crypto",
       "source": "Wallex"
     },
     "osmo": {
       "symbol": "osmo",
       "titleFa": "اوسموسیس - تومان (OSMO)",
-      "priceTomans": 8962,
-      "changePercentage24h": 4.82,
+      "priceTomans": 8404,
+      "changePercentage24h": -7.65,
       "category": "crypto",
       "source": "Wallex"
     },
     "safe": {
       "symbol": "safe",
       "titleFa": "سیف - تومان (SAFE)",
-      "priceTomans": 23375,
-      "changePercentage24h": 3.3,
+      "priceTomans": 22743,
+      "changePercentage24h": 0.83,
       "category": "crypto",
       "source": "Wallex"
     },
     "bio": {
       "symbol": "bio",
       "titleFa": "بایو پروتکل - تومان (BIO)",
-      "priceTomans": 5193,
-      "changePercentage24h": 3.88,
+      "priceTomans": 5063,
+      "changePercentage24h": -0.61,
+      "category": "crypto",
+      "source": "Wallex"
+    },
+    "kaia": {
+      "symbol": "kaia",
+      "titleFa": "کایا - تومان (KAIA)",
+      "priceTomans": 8449,
+      "changePercentage24h": 0.0,
       "category": "crypto",
       "source": "Wallex"
     },
     "usdc": {
       "symbol": "usdc",
       "titleFa": "یو اس دی کوین - تومان (USDC)",
-      "priceTomans": 265000,
-      "changePercentage24h": 2.24,
+      "priceTomans": 267896,
+      "changePercentage24h": 1.8,
       "category": "crypto",
       "source": "Wallex"
     },
     "ath": {
       "symbol": "ath",
       "titleFa": "ایتیر - تومان (ATH)",
-      "priceTomans": 1158,
-      "changePercentage24h": -3.81,
+      "priceTomans": 1176,
+      "changePercentage24h": -5.61,
       "category": "crypto",
       "source": "Wallex"
     },
     "usds": {
       "symbol": "usds",
       "titleFa": "یو اس دی اس - تومان (USDS)",
-      "priceTomans": 262721,
-      "changePercentage24h": 2.16,
+      "priceTomans": 271000,
+      "changePercentage24h": 3.15,
       "category": "crypto",
       "source": "Wallex"
     },
     "one": {
       "symbol": "one",
       "titleFa": "هارمونی - تومان (ONE)",
-      "priceTomans": 432,
-      "changePercentage24h": 6.07,
+      "priceTomans": 421,
+      "changePercentage24h": 5.04,
       "category": "crypto",
       "source": "Wallex"
     },
     "gala": {
       "symbol": "gala",
       "titleFa": "گالا - تومان (GALA)",
-      "priceTomans": 387,
-      "changePercentage24h": -1.02,
+      "priceTomans": 390,
+      "changePercentage24h": -1.27,
       "category": "crypto",
       "source": "Wallex"
     },
     "mana": {
       "symbol": "mana",
       "titleFa": "دیسنترالند - تومان (MANA)",
-      "priceTomans": 18513,
-      "changePercentage24h": -0.02,
+      "priceTomans": 18096,
+      "changePercentage24h": -2.57,
       "category": "crypto",
       "source": "Wallex"
     },
     "form": {
       "symbol": "form",
       "titleFa": "فور - تومان (FORM)",
-      "priceTomans": 52647,
-      "changePercentage24h": 0.61,
+      "priceTomans": 52305,
+      "changePercentage24h": 0.32,
       "category": "crypto",
       "source": "Wallex"
     },
     "link": {
       "symbol": "link",
       "titleFa": "چین لینک - تومان (LINK)",
-      "priceTomans": 2690023,
-      "changePercentage24h": -0.37,
+      "priceTomans": 2694977,
+      "changePercentage24h": -3.39,
       "category": "crypto",
       "source": "Wallex"
     },
     "s": {
       "symbol": "s",
       "titleFa": "سونیک - تومان (S)",
-      "priceTomans": 9607,
-      "changePercentage24h": -1.29,
+      "priceTomans": 9821,
+      "changePercentage24h": -0.28,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -1249,15 +1225,15 @@
       "symbol": "algo",
       "titleFa": "الگورند - تومان (ALGO)",
       "priceTomans": 23519,
-      "changePercentage24h": -2.12,
+      "changePercentage24h": 0.0,
       "category": "crypto",
       "source": "Wallex"
     },
     "avnt": {
       "symbol": "avnt",
       "titleFa": "اوانتیس - تومان (AVNT)",
-      "priceTomans": 21767,
-      "changePercentage24h": 5.62,
+      "priceTomans": 20920,
+      "changePercentage24h": -5.8,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -1265,7 +1241,7 @@
       "symbol": "aixbt",
       "titleFa": "ای‌آی‌ایکس‌بی‌تی - تومان (AIXBT)",
       "priceTomans": 3766,
-      "changePercentage24h": -1.18,
+      "changePercentage24h": 0.0,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -1273,23 +1249,23 @@
       "symbol": "cvc",
       "titleFa": "سیویک - تومان (CVC)",
       "priceTomans": 5357,
-      "changePercentage24h": 1.31,
+      "changePercentage24h": 0.0,
       "category": "crypto",
       "source": "Wallex"
     },
     "fil": {
       "symbol": "fil",
       "titleFa": "فایل کوین - تومان (FIL)",
-      "priceTomans": 196863,
-      "changePercentage24h": -1.4,
+      "priceTomans": 196913,
+      "changePercentage24h": -3.02,
       "category": "crypto",
       "source": "Wallex"
     },
     "aave": {
       "symbol": "aave",
       "titleFa": "آوه - تومان (AAVE)",
-      "priceTomans": 31328657,
-      "changePercentage24h": -4.15,
+      "priceTomans": 30729787,
+      "changePercentage24h": -5.98,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -1297,38 +1273,38 @@
       "symbol": "agld",
       "titleFa": "ادونچر گلد - تومان (AGLD)",
       "priceTomans": 40116,
-      "changePercentage24h": 0.81,
+      "changePercentage24h": 1.45,
       "category": "crypto",
       "source": "Wallex"
     },
     "usd": {
       "symbol": "usd",
       "titleFa": "دلار آمریکا (آزاد)",
-      "priceTomans": 259900,
-      "changePercentage24h": 1.54,
+      "priceTomans": 266900,
+      "changePercentage24h": 1.07,
       "category": "fiat",
       "source": "TGJU"
     },
     "18ayar": {
       "symbol": "18ayar",
       "titleFa": "طلای ۱۸ عیار (هر گرم)",
-      "priceTomans": 24931000,
-      "changePercentage24h": 2.46,
+      "priceTomans": 25038800,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "TGJU"
     },
     "24ayar": {
       "symbol": "24ayar",
       "titleFa": "طلای ۲۴ عیار (هر گرم)",
-      "priceTomans": 33241000,
-      "changePercentage24h": 2.46,
+      "priceTomans": 33384700,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "TGJU"
     },
     "gerami": {
       "symbol": "gerami",
       "titleFa": "سکه گرمی",
-      "priceTomans": 37010000,
+      "priceTomans": 37000000,
       "changePercentage24h": 0.0,
       "category": "gold",
       "source": "TGJU"
@@ -1336,312 +1312,312 @@
     "abshodeh": {
       "symbol": "abshodeh",
       "titleFa": "طلای آب‌شده (مثقال)",
-      "priceTomans": 107998000,
-      "changePercentage24h": 2.45,
+      "priceTomans": 108455000,
+      "changePercentage24h": 0.57,
       "category": "gold",
       "source": "TGJU"
     },
     "nim": {
       "symbol": "nim",
       "titleFa": "نیم سکه بهار آزادی",
-      "priceTomans": 132860000,
-      "changePercentage24h": 1.38,
+      "priceTomans": 133190000,
+      "changePercentage24h": 0.3,
       "category": "gold",
       "source": "TGJU"
     },
     "ons": {
       "symbol": "ons",
       "titleFa": "انس جهانی طلا (دلار)",
-      "priceTomans": 4030,
-      "changePercentage24h": 2.85,
+      "priceTomans": 3880,
+      "changePercentage24h": 2.75,
       "category": "gold",
       "source": "TGJU"
     },
     "aed": {
       "symbol": "aed",
       "titleFa": "درهم امارات",
-      "priceTomans": 71173,
-      "changePercentage24h": 1.42,
+      "priceTomans": 73138,
+      "changePercentage24h": 1.21,
       "category": "fiat",
       "source": "TGJU"
     },
     "amd": {
       "symbol": "amd",
       "titleFa": "درام ارمنستان",
-      "priceTomans": 722,
-      "changePercentage24h": 1.39,
+      "priceTomans": 717,
+      "changePercentage24h": 2.23,
       "category": "fiat",
       "source": "TGJU"
     },
     "aud": {
       "symbol": "aud",
       "titleFa": "دلار استرالیا",
-      "priceTomans": 178150,
-      "changePercentage24h": 2.31,
+      "priceTomans": 182550,
+      "changePercentage24h": 0.85,
       "category": "fiat",
       "source": "TGJU"
     },
     "azn": {
       "symbol": "azn",
       "titleFa": "منات آذربایجان",
-      "priceTomans": 153000,
-      "changePercentage24h": 1.42,
+      "priceTomans": 157230,
+      "changePercentage24h": 1.22,
       "category": "fiat",
       "source": "TGJU"
     },
     "cad": {
       "symbol": "cad",
       "titleFa": "دلار کانادا",
-      "priceTomans": 183140,
-      "changePercentage24h": 2.0,
+      "priceTomans": 187820,
+      "changePercentage24h": 1.25,
       "category": "fiat",
       "source": "TGJU"
     },
     "chf": {
       "symbol": "chf",
       "titleFa": "فرانک سوئیس",
-      "priceTomans": 314870,
-      "changePercentage24h": 2.05,
+      "priceTomans": 321170,
+      "changePercentage24h": 1.21,
       "category": "fiat",
       "source": "TGJU"
     },
     "cny": {
       "symbol": "cny",
       "titleFa": "یوان چین",
-      "priceTomans": 39000,
-      "changePercentage24h": 1.44,
+      "priceTomans": 40110,
+      "changePercentage24h": 1.29,
       "category": "fiat",
       "source": "TGJU"
     },
     "eur": {
       "symbol": "eur",
       "titleFa": "یورو اروپا",
-      "priceTomans": 290650,
-      "changePercentage24h": 1.89,
+      "priceTomans": 296930,
+      "changePercentage24h": 1.12,
       "category": "fiat",
       "source": "TGJU"
     },
     "gbp": {
       "symbol": "gbp",
       "titleFa": "پوند انگلیس",
-      "priceTomans": 346690,
-      "changePercentage24h": 2.11,
+      "priceTomans": 354490,
+      "changePercentage24h": 1.02,
       "category": "fiat",
       "source": "TGJU"
     },
     "gel": {
       "symbol": "gel",
       "titleFa": "لاری گرجستان",
-      "priceTomans": 100230,
-      "changePercentage24h": 1.38,
+      "priceTomans": 102940,
+      "changePercentage24h": 1.16,
       "category": "fiat",
       "source": "TGJU"
     },
     "inr": {
       "symbol": "inr",
       "titleFa": "روپیه هند",
-      "priceTomans": 2776,
-      "changePercentage24h": 1.3,
+      "priceTomans": 2838,
+      "changePercentage24h": 0.67,
       "category": "fiat",
       "source": "TGJU"
     },
     "iqd": {
       "symbol": "iqd",
       "titleFa": "صد دینار عراق",
-      "priceTomans": 167,
-      "changePercentage24h": 1.44,
+      "priceTomans": 172,
+      "changePercentage24h": 1.9,
       "category": "fiat",
       "source": "TGJU"
     },
     "jpy": {
       "symbol": "jpy",
       "titleFa": "صد ین ژاپن",
-      "priceTomans": 164041,
-      "changePercentage24h": 1.91,
+      "priceTomans": 167583,
+      "changePercentage24h": 1.27,
       "category": "fiat",
       "source": "TGJU"
     },
     "kwd": {
       "symbol": "kwd",
       "titleFa": "دینار کویت",
-      "priceTomans": 837490,
-      "changePercentage24h": 1.49,
+      "priceTomans": 860450,
+      "changePercentage24h": 1.28,
       "category": "fiat",
       "source": "TGJU"
     },
     "omr": {
       "symbol": "omr",
       "titleFa": "ریال عمان",
-      "priceTomans": 676820,
-      "changePercentage24h": 1.45,
+      "priceTomans": 695730,
+      "changePercentage24h": 1.21,
       "category": "fiat",
       "source": "TGJU"
     },
     "pkr": {
       "symbol": "pkr",
       "titleFa": "روپیه پاکستان",
-      "priceTomans": 932,
-      "changePercentage24h": 1.37,
+      "priceTomans": 957,
+      "changePercentage24h": 1.15,
       "category": "fiat",
       "source": "TGJU"
     },
     "qar": {
       "symbol": "qar",
       "titleFa": "ریال قطر",
-      "priceTomans": 70850,
-      "changePercentage24h": 1.12,
+      "priceTomans": 72700,
+      "changePercentage24h": 1.82,
       "category": "fiat",
       "source": "TGJU"
     },
     "rub": {
       "symbol": "rub",
       "titleFa": "روبل روسیه",
-      "priceTomans": 3122,
-      "changePercentage24h": 2.27,
+      "priceTomans": 3262,
+      "changePercentage24h": 2.03,
       "category": "fiat",
       "source": "TGJU"
     },
     "sar": {
       "symbol": "sar",
       "titleFa": "ریال عربستان",
-      "priceTomans": 69338,
-      "changePercentage24h": 1.39,
+      "priceTomans": 71261,
+      "changePercentage24h": 1.22,
       "category": "fiat",
       "source": "TGJU"
     },
     "try": {
       "symbol": "try",
       "titleFa": "لیر ترکیه",
-      "priceTomans": 5180,
-      "changePercentage24h": 1.35,
+      "priceTomans": 5320,
+      "changePercentage24h": 1.14,
       "category": "fiat",
       "source": "TGJU"
     },
     "rob": {
       "symbol": "rob",
       "titleFa": "ربع سکه بهار آزادی",
-      "priceTomans": 71330000,
-      "changePercentage24h": 1.3,
+      "priceTomans": 72490000,
+      "changePercentage24h": 0.17,
       "category": "gold",
       "source": "TGJU"
     },
     "bahar": {
       "symbol": "bahar",
       "titleFa": "سکه بهار آزادی (طرح قدیم)",
-      "priceTomans": 245965000,
-      "changePercentage24h": 1.77,
+      "priceTomans": 247045000,
+      "changePercentage24h": 0.09,
       "category": "gold",
       "source": "TGJU"
     },
     "sekkeh": {
       "symbol": "sekkeh",
       "titleFa": "سکه تمام بهار آزادی (امامی)",
-      "priceTomans": 251655000,
-      "changePercentage24h": 2.44,
+      "priceTomans": 253965000,
+      "changePercentage24h": 0.16,
       "category": "gold",
       "source": "TGJU"
     },
     "parsian_100": {
       "symbol": "parsian_100",
       "titleFa": "سکه پارسیان ۱۰۰ سوت",
-      "priceTomans": 2553100,
-      "changePercentage24h": 2.46,
+      "priceTomans": 2563880,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     "parsian_200": {
       "symbol": "parsian_200",
       "titleFa": "سکه پارسیان ۲۰۰ سوت",
-      "priceTomans": 5046200,
-      "changePercentage24h": 2.46,
+      "priceTomans": 5067760,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     "parsian_300": {
       "symbol": "parsian_300",
       "titleFa": "سکه پارسیان ۳۰۰ سوت",
-      "priceTomans": 7539300,
-      "changePercentage24h": 2.46,
+      "priceTomans": 7571640,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     "parsian_400": {
       "symbol": "parsian_400",
       "titleFa": "سکه پارسیان ۴۰۰ سوت",
-      "priceTomans": 10032400,
-      "changePercentage24h": 2.46,
+      "priceTomans": 10075520,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     "parsian_500": {
       "symbol": "parsian_500",
       "titleFa": "سکه پارسیان ۵۰۰ سوت (نیم گرم)",
-      "priceTomans": 12525500,
-      "changePercentage24h": 2.46,
+      "priceTomans": 12579400,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     "parsian_600": {
       "symbol": "parsian_600",
       "titleFa": "سکه پارسیان ۶۰۰ سوت",
-      "priceTomans": 15018600,
-      "changePercentage24h": 2.46,
+      "priceTomans": 15083280,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     "parsian_700": {
       "symbol": "parsian_700",
       "titleFa": "سکه پارسیان ۷۰۰ سوت",
-      "priceTomans": 17511700,
-      "changePercentage24h": 2.46,
+      "priceTomans": 17587160,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     "parsian_800": {
       "symbol": "parsian_800",
       "titleFa": "سکه پارسیان ۸۰۰ سوت",
-      "priceTomans": 20004800,
-      "changePercentage24h": 2.46,
+      "priceTomans": 20091040,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     "parsian_900": {
       "symbol": "parsian_900",
       "titleFa": "سکه پارسیان ۹۰۰ سوت",
-      "priceTomans": 22497900,
-      "changePercentage24h": 2.46,
+      "priceTomans": 22594920,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     "parsian_1000": {
       "symbol": "parsian_1000",
       "titleFa": "سکه پارسیان ۱ گرمی (۱۰۰۰ سوت)",
-      "priceTomans": 24991000,
-      "changePercentage24h": 2.46,
+      "priceTomans": 25098800,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     "parsian_1200": {
       "symbol": "parsian_1200",
       "titleFa": "سکه پارسیان ۱.۲ گرمی",
-      "priceTomans": 29977200,
-      "changePercentage24h": 2.46,
+      "priceTomans": 30106560,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     "parsian_1500": {
       "symbol": "parsian_1500",
       "titleFa": "سکه پارسیان ۱.۵ گرمی",
-      "priceTomans": 37456500,
-      "changePercentage24h": 2.46,
+      "priceTomans": 37618200,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     "parsian_2000": {
       "symbol": "parsian_2000",
       "titleFa": "سکه پارسیان ۲ گرمی",
-      "priceTomans": 49922000,
-      "changePercentage24h": 2.46,
+      "priceTomans": 50137600,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     }
@@ -1650,55 +1626,55 @@
     {
       "symbol": "18ayar",
       "titleFa": "طلای ۱۸ عیار (هر گرم)",
-      "priceTomans": 24931000,
-      "changePercentage24h": 2.46,
+      "priceTomans": 25038800,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "TGJU"
     },
     {
       "symbol": "24ayar",
       "titleFa": "طلای ۲۴ عیار (هر گرم)",
-      "priceTomans": 33241000,
-      "changePercentage24h": 2.46,
+      "priceTomans": 33384700,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "TGJU"
     },
     {
       "symbol": "sekkeh",
       "titleFa": "سکه تمام بهار آزادی (امامی)",
-      "priceTomans": 251655000,
-      "changePercentage24h": 2.44,
+      "priceTomans": 253965000,
+      "changePercentage24h": 0.16,
       "category": "gold",
       "source": "TGJU"
     },
     {
       "symbol": "bahar",
       "titleFa": "سکه بهار آزادی (طرح قدیم)",
-      "priceTomans": 245965000,
-      "changePercentage24h": 1.77,
+      "priceTomans": 247045000,
+      "changePercentage24h": 0.09,
       "category": "gold",
       "source": "TGJU"
     },
     {
       "symbol": "nim",
       "titleFa": "نیم سکه بهار آزادی",
-      "priceTomans": 132860000,
-      "changePercentage24h": 1.38,
+      "priceTomans": 133190000,
+      "changePercentage24h": 0.3,
       "category": "gold",
       "source": "TGJU"
     },
     {
       "symbol": "rob",
       "titleFa": "ربع سکه بهار آزادی",
-      "priceTomans": 71330000,
-      "changePercentage24h": 1.3,
+      "priceTomans": 72490000,
+      "changePercentage24h": 0.17,
       "category": "gold",
       "source": "TGJU"
     },
     {
       "symbol": "gerami",
       "titleFa": "سکه گرمی",
-      "priceTomans": 37010000,
+      "priceTomans": 37000000,
       "changePercentage24h": 0.0,
       "category": "gold",
       "source": "TGJU"
@@ -1706,352 +1682,352 @@
     {
       "symbol": "abshodeh",
       "titleFa": "طلای آب‌شده (مثقال)",
-      "priceTomans": 107998000,
-      "changePercentage24h": 2.45,
+      "priceTomans": 108455000,
+      "changePercentage24h": 0.57,
       "category": "gold",
       "source": "TGJU"
     },
     {
       "symbol": "usd",
       "titleFa": "دلار آمریکا (آزاد)",
-      "priceTomans": 259900,
-      "changePercentage24h": 1.54,
+      "priceTomans": 266900,
+      "changePercentage24h": 1.07,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "usdt",
       "titleFa": "تتر - تومان (USDT)",
-      "priceTomans": 267498,
-      "changePercentage24h": 2.49,
+      "priceTomans": 270994,
+      "changePercentage24h": 2.69,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "eur",
       "titleFa": "یورو اروپا",
-      "priceTomans": 290650,
-      "changePercentage24h": 1.89,
+      "priceTomans": 296930,
+      "changePercentage24h": 1.12,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "gbp",
       "titleFa": "پوند انگلیس",
-      "priceTomans": 346690,
-      "changePercentage24h": 2.11,
+      "priceTomans": 354490,
+      "changePercentage24h": 1.02,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "aed",
       "titleFa": "درهم امارات",
-      "priceTomans": 71173,
-      "changePercentage24h": 1.42,
+      "priceTomans": 73138,
+      "changePercentage24h": 1.21,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "try",
       "titleFa": "لیر ترکیه",
-      "priceTomans": 5180,
-      "changePercentage24h": 1.35,
+      "priceTomans": 5320,
+      "changePercentage24h": 1.14,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "cad",
       "titleFa": "دلار کانادا",
-      "priceTomans": 183140,
-      "changePercentage24h": 2.0,
+      "priceTomans": 187820,
+      "changePercentage24h": 1.25,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "aud",
       "titleFa": "دلار استرالیا",
-      "priceTomans": 178150,
-      "changePercentage24h": 2.31,
+      "priceTomans": 182550,
+      "changePercentage24h": 0.85,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "cny",
       "titleFa": "یوان چین",
-      "priceTomans": 39000,
-      "changePercentage24h": 1.44,
+      "priceTomans": 40110,
+      "changePercentage24h": 1.29,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "kwd",
       "titleFa": "دینار کویت",
-      "priceTomans": 837490,
-      "changePercentage24h": 1.49,
+      "priceTomans": 860450,
+      "changePercentage24h": 1.28,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "iqd",
       "titleFa": "صد دینار عراق",
-      "priceTomans": 167,
-      "changePercentage24h": 1.44,
+      "priceTomans": 172,
+      "changePercentage24h": 1.9,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "btc",
       "titleFa": "بیت کوین - تومان (BTC)",
-      "priceTomans": 19576971437,
-      "changePercentage24h": 1.64,
+      "priceTomans": 19461050881,
+      "changePercentage24h": -0.83,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "eth",
       "titleFa": "اتریوم - تومان (ETH)",
-      "priceTomans": 546750873,
-      "changePercentage24h": 1.65,
+      "priceTomans": 544302654,
+      "changePercentage24h": -1.18,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "sol",
       "titleFa": "سولانا - تومان (SOL)",
-      "priceTomans": 22304236,
-      "changePercentage24h": 2.61,
+      "priceTomans": 22077705,
+      "changePercentage24h": -1.9,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "trx",
       "titleFa": "ترون - تومان (TRX)",
-      "priceTomans": 85299,
-      "changePercentage24h": 1.59,
+      "priceTomans": 86400,
+      "changePercentage24h": 2.08,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "doge",
       "titleFa": "دوج کوین - تومان (DOGE)",
-      "priceTomans": 17992,
-      "changePercentage24h": 1.38,
+      "priceTomans": 17920,
+      "changePercentage24h": -1.65,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "ada",
       "titleFa": "کاردانو - تومان (ADA)",
-      "priceTomans": 46462,
-      "changePercentage24h": 1.01,
+      "priceTomans": 46774,
+      "changePercentage24h": -0.91,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "xrp",
       "titleFa": "ریپل - تومان (XRP)",
-      "priceTomans": 281689,
-      "changePercentage24h": 1.83,
+      "priceTomans": 278162,
+      "changePercentage24h": -1.68,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "ons",
       "titleFa": "انس جهانی طلا (دلار)",
-      "priceTomans": 4030,
-      "changePercentage24h": 2.85,
+      "priceTomans": 3880,
+      "changePercentage24h": 2.75,
       "category": "gold",
       "source": "TGJU"
     },
     {
       "symbol": "parsian_100",
       "titleFa": "سکه پارسیان ۱۰۰ سوت",
-      "priceTomans": 2553100,
-      "changePercentage24h": 2.46,
+      "priceTomans": 2563880,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     {
       "symbol": "parsian_1000",
       "titleFa": "سکه پارسیان ۱ گرمی (۱۰۰۰ سوت)",
-      "priceTomans": 24991000,
-      "changePercentage24h": 2.46,
+      "priceTomans": 25098800,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     {
       "symbol": "parsian_1200",
       "titleFa": "سکه پارسیان ۱.۲ گرمی",
-      "priceTomans": 29977200,
-      "changePercentage24h": 2.46,
+      "priceTomans": 30106560,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     {
       "symbol": "parsian_1500",
       "titleFa": "سکه پارسیان ۱.۵ گرمی",
-      "priceTomans": 37456500,
-      "changePercentage24h": 2.46,
+      "priceTomans": 37618200,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     {
       "symbol": "parsian_200",
       "titleFa": "سکه پارسیان ۲۰۰ سوت",
-      "priceTomans": 5046200,
-      "changePercentage24h": 2.46,
+      "priceTomans": 5067760,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     {
       "symbol": "parsian_2000",
       "titleFa": "سکه پارسیان ۲ گرمی",
-      "priceTomans": 49922000,
-      "changePercentage24h": 2.46,
+      "priceTomans": 50137600,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     {
       "symbol": "parsian_300",
       "titleFa": "سکه پارسیان ۳۰۰ سوت",
-      "priceTomans": 7539300,
-      "changePercentage24h": 2.46,
+      "priceTomans": 7571640,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     {
       "symbol": "parsian_400",
       "titleFa": "سکه پارسیان ۴۰۰ سوت",
-      "priceTomans": 10032400,
-      "changePercentage24h": 2.46,
+      "priceTomans": 10075520,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     {
       "symbol": "parsian_500",
       "titleFa": "سکه پارسیان ۵۰۰ سوت (نیم گرم)",
-      "priceTomans": 12525500,
-      "changePercentage24h": 2.46,
+      "priceTomans": 12579400,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     {
       "symbol": "parsian_600",
       "titleFa": "سکه پارسیان ۶۰۰ سوت",
-      "priceTomans": 15018600,
-      "changePercentage24h": 2.46,
+      "priceTomans": 15083280,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     {
       "symbol": "parsian_700",
       "titleFa": "سکه پارسیان ۷۰۰ سوت",
-      "priceTomans": 17511700,
-      "changePercentage24h": 2.46,
+      "priceTomans": 17587160,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     {
       "symbol": "parsian_800",
       "titleFa": "سکه پارسیان ۸۰۰ سوت",
-      "priceTomans": 20004800,
-      "changePercentage24h": 2.46,
+      "priceTomans": 20091040,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     {
       "symbol": "parsian_900",
       "titleFa": "سکه پارسیان ۹۰۰ سوت",
-      "priceTomans": 22497900,
-      "changePercentage24h": 2.46,
+      "priceTomans": 22594920,
+      "changePercentage24h": 0.56,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
     {
       "symbol": "amd",
       "titleFa": "درام ارمنستان",
-      "priceTomans": 722,
-      "changePercentage24h": 1.39,
+      "priceTomans": 717,
+      "changePercentage24h": 2.23,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "azn",
       "titleFa": "منات آذربایجان",
-      "priceTomans": 153000,
-      "changePercentage24h": 1.42,
+      "priceTomans": 157230,
+      "changePercentage24h": 1.22,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "chf",
       "titleFa": "فرانک سوئیس",
-      "priceTomans": 314870,
-      "changePercentage24h": 2.05,
+      "priceTomans": 321170,
+      "changePercentage24h": 1.21,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "gel",
       "titleFa": "لاری گرجستان",
-      "priceTomans": 100230,
-      "changePercentage24h": 1.38,
+      "priceTomans": 102940,
+      "changePercentage24h": 1.16,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "inr",
       "titleFa": "روپیه هند",
-      "priceTomans": 2776,
-      "changePercentage24h": 1.3,
+      "priceTomans": 2838,
+      "changePercentage24h": 0.67,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "jpy",
       "titleFa": "صد ین ژاپن",
-      "priceTomans": 164041,
-      "changePercentage24h": 1.91,
+      "priceTomans": 167583,
+      "changePercentage24h": 1.27,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "omr",
       "titleFa": "ریال عمان",
-      "priceTomans": 676820,
-      "changePercentage24h": 1.45,
+      "priceTomans": 695730,
+      "changePercentage24h": 1.21,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "pkr",
       "titleFa": "روپیه پاکستان",
-      "priceTomans": 932,
-      "changePercentage24h": 1.37,
+      "priceTomans": 957,
+      "changePercentage24h": 1.15,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "qar",
       "titleFa": "ریال قطر",
-      "priceTomans": 70850,
-      "changePercentage24h": 1.12,
+      "priceTomans": 72700,
+      "changePercentage24h": 1.82,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "rub",
       "titleFa": "روبل روسیه",
-      "priceTomans": 3122,
-      "changePercentage24h": 2.27,
+      "priceTomans": 3262,
+      "changePercentage24h": 2.03,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "sar",
       "titleFa": "ریال عربستان",
-      "priceTomans": 69338,
-      "changePercentage24h": 1.39,
+      "priceTomans": 71261,
+      "changePercentage24h": 1.22,
       "category": "fiat",
       "source": "TGJU"
     },
@@ -2059,15 +2035,7 @@
       "symbol": "1bbabydoge",
       "titleFa": "۱میلیارد بیبی دوج - تومان (1BBABYDOGE)",
       "priceTomans": 76718,
-      "changePercentage24h": 1.56,
-      "category": "crypto",
-      "source": "Wallex"
-    },
-    {
-      "symbol": "1inch",
-      "titleFa": "وان اینچ - تومان (1INCH)",
-      "priceTomans": 19491,
-      "changePercentage24h": 0.42,
+      "changePercentage24h": -1.46,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -2082,32 +2050,32 @@
     {
       "symbol": "a",
       "titleFa": "والتا - تومان (A)",
-      "priceTomans": 19350,
-      "changePercentage24h": 0.08,
+      "priceTomans": 19505,
+      "changePercentage24h": -0.14,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "aave",
       "titleFa": "آوه - تومان (AAVE)",
-      "priceTomans": 31328657,
-      "changePercentage24h": -4.15,
+      "priceTomans": 30729787,
+      "changePercentage24h": -5.98,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "aero",
       "titleFa": "آئرودروم فایننس - تومان (AERO)",
-      "priceTomans": 145580,
-      "changePercentage24h": 3.18,
+      "priceTomans": 141666,
+      "changePercentage24h": 1.13,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "aevo",
       "titleFa": "آئوو - تومان (AEVO)",
-      "priceTomans": 4893,
-      "changePercentage24h": 1.12,
+      "priceTomans": 4947,
+      "changePercentage24h": 1.1,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -2115,15 +2083,15 @@
       "symbol": "agld",
       "titleFa": "ادونچر گلد - تومان (AGLD)",
       "priceTomans": 40116,
-      "changePercentage24h": 0.81,
+      "changePercentage24h": 1.45,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "aioz",
       "titleFa": "آیوز نتورک - تومان (AIOZ)",
-      "priceTomans": 20468,
-      "changePercentage24h": -8.8,
+      "priceTomans": 21683,
+      "changePercentage24h": 5.94,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -2131,7 +2099,7 @@
       "symbol": "aixbt",
       "titleFa": "ای‌آی‌ایکس‌بی‌تی - تومان (AIXBT)",
       "priceTomans": 3766,
-      "changePercentage24h": -1.18,
+      "changePercentage24h": 0.0,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -2139,143 +2107,143 @@
       "symbol": "algo",
       "titleFa": "الگورند - تومان (ALGO)",
       "priceTomans": 23519,
-      "changePercentage24h": -2.12,
+      "changePercentage24h": 0.0,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "alice",
       "titleFa": "آلیس - تومان (ALICE)",
-      "priceTomans": 31151,
-      "changePercentage24h": -0.48,
+      "priceTomans": 31344,
+      "changePercentage24h": -0.9,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "ape",
       "titleFa": "ایپ کوین - تومان (APE)",
-      "priceTomans": 24870,
-      "changePercentage24h": -3.11,
+      "priceTomans": 24995,
+      "changePercentage24h": -4.04,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "apt",
       "titleFa": "اپتوس - تومان (APT)",
-      "priceTomans": 152003,
-      "changePercentage24h": 1.4,
+      "priceTomans": 147247,
+      "changePercentage24h": -3.13,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "arb",
       "titleFa": "اربیتروم - تومان (ARB)",
-      "priceTomans": 39865,
-      "changePercentage24h": -4.02,
+      "priceTomans": 39975,
+      "changePercentage24h": -4.7,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "aster",
       "titleFa": "آستار - تومان (ASTER)",
-      "priceTomans": 175989,
-      "changePercentage24h": 5.32,
+      "priceTomans": 180001,
+      "changePercentage24h": 3.09,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "ath",
       "titleFa": "ایتیر - تومان (ATH)",
-      "priceTomans": 1158,
-      "changePercentage24h": -3.81,
+      "priceTomans": 1176,
+      "changePercentage24h": -5.61,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "atom",
       "titleFa": "کازماس - تومان (ATOM)",
-      "priceTomans": 374424,
-      "changePercentage24h": 1.47,
+      "priceTomans": 382753,
+      "changePercentage24h": 1.82,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "avax",
       "titleFa": "اوالانچ - تومان (AVAX)",
-      "priceTomans": 2315000,
-      "changePercentage24h": 2.81,
+      "priceTomans": 2256350,
+      "changePercentage24h": -1.17,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "avnt",
       "titleFa": "اوانتیس - تومان (AVNT)",
-      "priceTomans": 21767,
-      "changePercentage24h": 5.62,
+      "priceTomans": 20920,
+      "changePercentage24h": -5.8,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "axs",
       "titleFa": "اکسی اینفینیتی - تومان (AXS)",
-      "priceTomans": 211191,
-      "changePercentage24h": 1.36,
+      "priceTomans": 212776,
+      "changePercentage24h": 0.22,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "bank",
       "titleFa": "لورنزو پروتکل - تومان (BANK)",
-      "priceTomans": 5777,
-      "changePercentage24h": 0.66,
+      "priceTomans": 5776,
+      "changePercentage24h": -2.23,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "bat",
       "titleFa": "بیسیک اتنشن توکن - تومان (BAT)",
-      "priceTomans": 33059,
-      "changePercentage24h": 1.69,
+      "priceTomans": 32437,
+      "changePercentage24h": 0.49,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "bch",
       "titleFa": "بیت کوین کش - تومان (BCH)",
-      "priceTomans": 60934452,
-      "changePercentage24h": 1.92,
+      "priceTomans": 61013506,
+      "changePercentage24h": -0.51,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "bico",
       "titleFa": "بایکونومی - تومان (BICO)",
-      "priceTomans": 3405,
-      "changePercentage24h": -1.99,
+      "priceTomans": 3391,
+      "changePercentage24h": -8.13,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "bio",
       "titleFa": "بایو پروتکل - تومان (BIO)",
-      "priceTomans": 5193,
-      "changePercentage24h": 3.88,
+      "priceTomans": 5063,
+      "changePercentage24h": -0.61,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "bnb",
       "titleFa": "بایننس کوین - تومان (BNB)",
-      "priceTomans": 179722343,
-      "changePercentage24h": 1.1,
+      "priceTomans": 177623139,
+      "changePercentage24h": -2.27,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "bome",
       "titleFa": " بوک آف میم - تومان (BOME)",
-      "priceTomans": 157,
-      "changePercentage24h": -1.94,
+      "priceTomans": 152,
+      "changePercentage24h": -5.78,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -2283,71 +2251,71 @@
       "symbol": "bonk",
       "titleFa": "بونک - تومان (BONK)",
       "priceTomans": 1,
-      "changePercentage24h": -3.3,
+      "changePercentage24h": -5.06,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "cake",
       "titleFa": "پنکیک سواپ - تومان (CAKE)",
-      "priceTomans": 482283,
-      "changePercentage24h": 1.34,
+      "priceTomans": 473505,
+      "changePercentage24h": -2.16,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "cati",
       "titleFa": "کتیزن - تومان (CATI)",
-      "priceTomans": 10105,
-      "changePercentage24h": 3.55,
+      "priceTomans": 9500,
+      "changePercentage24h": -4.11,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "celr",
       "titleFa": "سلر نتورک - تومان (CELR)",
-      "priceTomans": 517,
-      "changePercentage24h": -5.31,
+      "priceTomans": 544,
+      "changePercentage24h": -1.27,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "cgpt",
       "titleFa": "چین جی پی تی - تومان (CGPT)",
-      "priceTomans": 4416,
-      "changePercentage24h": -2.93,
+      "priceTomans": 4588,
+      "changePercentage24h": 3.86,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "chz",
       "titleFa": "چیلیز - تومان (CHZ)",
-      "priceTomans": 2807,
-      "changePercentage24h": 0.25,
+      "priceTomans": 2849,
+      "changePercentage24h": 0.07,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "cookie",
       "titleFa": "کوکی - تومان (COOKIE)",
-      "priceTomans": 2315,
-      "changePercentage24h": 4.66,
+      "priceTomans": 2263,
+      "changePercentage24h": -3.7,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "copxon",
       "titleFa": "گواهی مس دیجیتال - تومان (COPXON)",
-      "priceTomans": 20550000,
-      "changePercentage24h": 3.8,
+      "priceTomans": 20335115,
+      "changePercentage24h": -1.29,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "crv",
       "titleFa": "کرو دائو توکن - تومان (CRV)",
-      "priceTomans": 62925,
-      "changePercentage24h": -1.4,
+      "priceTomans": 63897,
+      "changePercentage24h": -1.88,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -2355,23 +2323,23 @@
       "symbol": "cvc",
       "titleFa": "سیویک - تومان (CVC)",
       "priceTomans": 5357,
-      "changePercentage24h": 1.31,
+      "changePercentage24h": 0.0,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "dash",
       "titleFa": "دَش - تومان (DASH)",
-      "priceTomans": 11126597,
-      "changePercentage24h": -2.2,
+      "priceTomans": 11055338,
+      "changePercentage24h": -4.09,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "dexe",
       "titleFa": "دکسی - تومان (DEXE)",
-      "priceTomans": 322999,
-      "changePercentage24h": 0.23,
+      "priceTomans": 324925,
+      "changePercentage24h": -2.07,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -2379,15 +2347,15 @@
       "symbol": "dogs",
       "titleFa": "داگز - تومان (DOGS)",
       "priceTomans": 8,
-      "changePercentage24h": -1.08,
+      "changePercentage24h": -1.57,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "dot",
       "titleFa": "پولکادات - تومان (DOT)",
-      "priceTomans": 223559,
-      "changePercentage24h": 1.03,
+      "priceTomans": 222551,
+      "changePercentage24h": -2.11,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -2395,7 +2363,7 @@
       "symbol": "dydx",
       "titleFa": "دی وای دی ایکس - تومان (DYDX)",
       "priceTomans": 23737,
-      "changePercentage24h": 1.8,
+      "changePercentage24h": -1.77,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -2410,64 +2378,64 @@
     {
       "symbol": "egld",
       "titleFa": "مولتی ورس ایکس - تومان (EGLD)",
-      "priceTomans": 771973,
-      "changePercentage24h": -1.05,
+      "priceTomans": 751000,
+      "changePercentage24h": -2.72,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "eigen",
       "titleFa": "آیگن لیر - تومان (EIGEN)",
-      "priceTomans": 41500,
-      "changePercentage24h": -0.67,
+      "priceTomans": 41346,
+      "changePercentage24h": -3.94,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "ena",
       "titleFa": "اتنا - تومان (ENA)",
-      "priceTomans": 37658,
-      "changePercentage24h": -5.29,
+      "priceTomans": 37325,
+      "changePercentage24h": -6.08,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "enj",
       "titleFa": "انجین کوین - تومان (ENJ)",
-      "priceTomans": 5552,
-      "changePercentage24h": -6.88,
+      "priceTomans": 5597,
+      "changePercentage24h": -9.02,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "etc",
       "titleFa": "اتریوم کلاسیک - تومان (ETC)",
-      "priceTomans": 1736220,
-      "changePercentage24h": -0.79,
+      "priceTomans": 1771954,
+      "changePercentage24h": 2.06,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "ethfi",
       "titleFa": "اتر فای - تومان (ETHFI)",
-      "priceTomans": 163002,
-      "changePercentage24h": 0.15,
+      "priceTomans": 167983,
+      "changePercentage24h": 3.21,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "fet",
       "titleFa": "فچ ای‌آی - تومان (FET)",
-      "priceTomans": 39102,
-      "changePercentage24h": 1.83,
+      "priceTomans": 38616,
+      "changePercentage24h": -3.99,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "fil",
       "titleFa": "فایل کوین - تومان (FIL)",
-      "priceTomans": 196863,
-      "changePercentage24h": -1.4,
+      "priceTomans": 196913,
+      "changePercentage24h": -3.02,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -2475,7 +2443,7 @@
       "symbol": "floki",
       "titleFa": "فلوکی اینو - تومان (FLOKI)",
       "priceTomans": 5,
-      "changePercentage24h": -0.11,
+      "changePercentage24h": -1.8,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -2490,72 +2458,72 @@
     {
       "symbol": "flr",
       "titleFa": "فلِر - تومان (FLR)",
-      "priceTomans": 1359,
-      "changePercentage24h": -3.07,
+      "priceTomans": 1426,
+      "changePercentage24h": 4.93,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "form",
       "titleFa": "فور - تومان (FORM)",
-      "priceTomans": 52647,
-      "changePercentage24h": 0.61,
+      "priceTomans": 52305,
+      "changePercentage24h": 0.32,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "gala",
       "titleFa": "گالا - تومان (GALA)",
-      "priceTomans": 387,
-      "changePercentage24h": -1.02,
+      "priceTomans": 390,
+      "changePercentage24h": -1.27,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "giggle",
       "titleFa": "گیگل فاند - تومان (GIGGLE)",
-      "priceTomans": 7428713,
-      "changePercentage24h": 1.34,
+      "priceTomans": 7159563,
+      "changePercentage24h": 0.0,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "gmt",
       "titleFa": "استپ اِن - تومان (GMT)",
-      "priceTomans": 1600,
-      "changePercentage24h": 1.27,
+      "priceTomans": 1617,
+      "changePercentage24h": 6.87,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "gram",
       "titleFa": "گرام - تومان (GRAM)",
-      "priceTomans": 331254,
-      "changePercentage24h": 6.4,
+      "priceTomans": 328012,
+      "changePercentage24h": 2.78,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "grt",
       "titleFa": "گراف - تومان (GRT)",
-      "priceTomans": 4488,
-      "changePercentage24h": -2.03,
+      "priceTomans": 4619,
+      "changePercentage24h": -2.24,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "hbar",
       "titleFa": "هدرا هشگراف - تومان (HBAR)",
-      "priceTomans": 17537,
-      "changePercentage24h": 2.1,
+      "priceTomans": 17165,
+      "changePercentage24h": -2.59,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "hmstr",
       "titleFa": "همستر کامبت - تومان (HMSTR)",
-      "priceTomans": 35,
-      "changePercentage24h": 1.76,
+      "priceTomans": 36,
+      "changePercentage24h": 3.43,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -2563,54 +2531,54 @@
       "symbol": "hot",
       "titleFa": "هولو - تومان (HOT)",
       "priceTomans": 106,
-      "changePercentage24h": -1.09,
+      "changePercentage24h": -3.7,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "hype",
       "titleFa": "هایپر لیکویید - تومان (HYPE)",
-      "priceTomans": 19110851,
-      "changePercentage24h": 1.03,
+      "priceTomans": 19307224,
+      "changePercentage24h": -0.87,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "icp",
       "titleFa": "اینترنت کامپیوتر - تومان (ICP)",
-      "priceTomans": 689767,
-      "changePercentage24h": 3.81,
+      "priceTomans": 696022,
+      "changePercentage24h": 0.05,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "io",
       "titleFa": "آی‌او دات نت - تومان (IO)",
-      "priceTomans": 30127,
-      "changePercentage24h": -4.23,
+      "priceTomans": 30616,
+      "changePercentage24h": -2.23,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "jst",
       "titleFa": "جاست - تومان (JST)",
-      "priceTomans": 38425,
-      "changePercentage24h": 0.0,
+      "priceTomans": 38661,
+      "changePercentage24h": 0.61,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "jup",
       "titleFa": "ژوپیتر - تومان (JUP)",
-      "priceTomans": 67415,
-      "changePercentage24h": 0.62,
+      "priceTomans": 70762,
+      "changePercentage24h": 4.96,
       "category": "crypto",
       "source": "Wallex"
     },
     {
-      "symbol": "kaito",
-      "titleFa": "کایتو - تومان (KAITO)",
-      "priceTomans": 54409,
+      "symbol": "kaia",
+      "titleFa": "کایا - تومان (KAIA)",
+      "priceTomans": 8449,
       "changePercentage24h": 0.0,
       "category": "crypto",
       "source": "Wallex"
@@ -2618,40 +2586,32 @@
     {
       "symbol": "kas",
       "titleFa": "کسپا - تومان (KAS)",
-      "priceTomans": 7874,
-      "changePercentage24h": 1.86,
+      "priceTomans": 7686,
+      "changePercentage24h": -2.24,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "kmno",
       "titleFa": "کامینو فایننس - تومان (KMNO)",
-      "priceTomans": 8252,
-      "changePercentage24h": -2.54,
-      "category": "crypto",
-      "source": "Wallex"
-    },
-    {
-      "symbol": "layer",
-      "titleFa": "سولیر - تومان (LAYER)",
-      "priceTomans": 13472,
-      "changePercentage24h": 2.15,
+      "priceTomans": 8560,
+      "changePercentage24h": 1.1,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "linea",
       "titleFa": "لینیا - تومان (LINEA)",
-      "priceTomans": 541,
-      "changePercentage24h": 0.93,
+      "priceTomans": 547,
+      "changePercentage24h": -1.08,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "link",
       "titleFa": "چین لینک - تومان (LINK)",
-      "priceTomans": 2690023,
-      "changePercentage24h": -0.37,
+      "priceTomans": 2694977,
+      "changePercentage24h": -3.39,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -2664,26 +2624,18 @@
       "source": "Wallex"
     },
     {
-      "symbol": "lrc",
-      "titleFa": "لوپرینگ - تومان (LRC)",
-      "priceTomans": 1723,
-      "changePercentage24h": 0.0,
-      "category": "crypto",
-      "source": "Wallex"
-    },
-    {
       "symbol": "ltc",
       "titleFa": "لایت کوین - تومان (LTC)",
-      "priceTomans": 13277329,
-      "changePercentage24h": -0.32,
+      "priceTomans": 13473672,
+      "changePercentage24h": -0.47,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "magic",
       "titleFa": "ترژر - تومان (MAGIC)",
-      "priceTomans": 21057,
-      "changePercentage24h": -2.2,
+      "priceTomans": 21641,
+      "changePercentage24h": -0.13,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -2691,23 +2643,23 @@
       "symbol": "major",
       "titleFa": "میجر - تومان (MAJOR)",
       "priceTomans": 7328,
-      "changePercentage24h": -2.91,
+      "changePercentage24h": -1.64,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "mana",
       "titleFa": "دیسنترالند - تومان (MANA)",
-      "priceTomans": 18513,
-      "changePercentage24h": -0.02,
+      "priceTomans": 18096,
+      "changePercentage24h": -2.57,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "mask",
       "titleFa": "ماسک نتورک - تومان (MASK)",
-      "priceTomans": 93539,
-      "changePercentage24h": 0.08,
+      "priceTomans": 94726,
+      "changePercentage24h": 1.27,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -2715,15 +2667,15 @@
       "symbol": "meme",
       "titleFa": "میم کوین - تومان (MEME)",
       "priceTomans": 99,
-      "changePercentage24h": 0.0,
+      "changePercentage24h": -1.0,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "met",
       "titleFa": "متئورا - تومان (MET)",
-      "priceTomans": 75381,
-      "changePercentage24h": -1.85,
+      "priceTomans": 76774,
+      "changePercentage24h": -1.09,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -2731,7 +2683,7 @@
       "symbol": "mmt",
       "titleFa": "مومنتوم - تومان (MMT)",
       "priceTomans": 31545,
-      "changePercentage24h": -1.7,
+      "changePercentage24h": 0.02,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -2746,24 +2698,24 @@
     {
       "symbol": "morpho",
       "titleFa": "مورفو - تومان (MORPHO)",
-      "priceTomans": 522156,
-      "changePercentage24h": 0.0,
+      "priceTomans": 534906,
+      "changePercentage24h": 1.48,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "move",
       "titleFa": "موومنت - تومان (MOVE)",
-      "priceTomans": 1465,
-      "changePercentage24h": 0.69,
+      "priceTomans": 1450,
+      "changePercentage24h": -1.02,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "near",
       "titleFa": "نیر پروتکل - تومان (NEAR)",
-      "priceTomans": 937043,
-      "changePercentage24h": -1.34,
+      "priceTomans": 922545,
+      "changePercentage24h": -6.51,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -2778,8 +2730,8 @@
     {
       "symbol": "nmr",
       "titleFa": "نومرایر - تومان (NMR)",
-      "priceTomans": 2330981,
-      "changePercentage24h": 0.0,
+      "priceTomans": 2362481,
+      "changePercentage24h": 1.35,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -2787,63 +2739,63 @@
       "symbol": "not",
       "titleFa": "نات کوین - تومان (NOT)",
       "priceTomans": 88,
-      "changePercentage24h": 2.7,
+      "changePercentage24h": 0.92,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "ondo",
       "titleFa": "اوندو - تومان (ONDO)",
-      "priceTomans": 93974,
-      "changePercentage24h": -2.28,
+      "priceTomans": 93272,
+      "changePercentage24h": -4.41,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "one",
       "titleFa": "هارمونی - تومان (ONE)",
-      "priceTomans": 432,
-      "changePercentage24h": 6.07,
+      "priceTomans": 421,
+      "changePercentage24h": 5.04,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "orca",
       "titleFa": "اورکا - تومان (ORCA)",
-      "priceTomans": 327340,
-      "changePercentage24h": 0.89,
+      "priceTomans": 327911,
+      "changePercentage24h": -2.7,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "osmo",
       "titleFa": "اوسموسیس - تومان (OSMO)",
-      "priceTomans": 8962,
-      "changePercentage24h": 4.82,
+      "priceTomans": 8404,
+      "changePercentage24h": -7.65,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "paxg",
       "titleFa": "پکس گلد - تومان (PAXG)",
-      "priceTomans": 1037301958,
-      "changePercentage24h": 0.62,
+      "priceTomans": 1037301950,
+      "changePercentage24h": -2.01,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "pengu",
       "titleFa": "پاجی پنگوئن - تومان (PENGU)",
-      "priceTomans": 1647,
-      "changePercentage24h": 0.61,
+      "priceTomans": 1653,
+      "changePercentage24h": -1.55,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "people",
       "titleFa": "کانستیتوشن دائو - تومان (PEOPLE)",
-      "priceTomans": 1488,
-      "changePercentage24h": -0.4,
+      "priceTomans": 1483,
+      "changePercentage24h": -2.37,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -2851,119 +2803,119 @@
       "symbol": "pepe",
       "titleFa": "پپه - تومان (PEPE)",
       "priceTomans": 1,
-      "changePercentage24h": -9.57,
+      "changePercentage24h": -9.51,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "pol",
       "titleFa": "پل (متیک) - تومان (POL)",
-      "priceTomans": 24440,
-      "changePercentage24h": 1.88,
+      "priceTomans": 23993,
+      "changePercentage24h": -0.84,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "pols",
       "titleFa": "پولکا استارتر - تومان (POLS)",
-      "priceTomans": 13100,
-      "changePercentage24h": -0.76,
+      "priceTomans": 12399,
+      "changePercentage24h": -6.07,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "prove",
       "titleFa": "ساکسینکت - تومان (PROVE)",
-      "priceTomans": 45954,
-      "changePercentage24h": 7.55,
+      "priceTomans": 43636,
+      "changePercentage24h": -5.04,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "pump",
       "titleFa": "پامپ فان - تومان (PUMP)",
-      "priceTomans": 926,
-      "changePercentage24h": 0.54,
+      "priceTomans": 918,
+      "changePercentage24h": -3.37,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "pyth",
       "titleFa": "پیث نتورک - تومان (PYTH)",
-      "priceTomans": 17373,
-      "changePercentage24h": -1.12,
+      "priceTomans": 16835,
+      "changePercentage24h": -4.07,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "qnt",
       "titleFa": "کوانت - تومان (QNT)",
-      "priceTomans": 44034048,
-      "changePercentage24h": -5.0,
+      "priceTomans": 44208121,
+      "changePercentage24h": -7.24,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "ray",
       "titleFa": "ریدیوم - تومان (RAY)",
-      "priceTomans": 418485,
-      "changePercentage24h": -2.76,
+      "priceTomans": 424542,
+      "changePercentage24h": -2.97,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "render",
       "titleFa": "رندر - تومان (RENDER)",
-      "priceTomans": 403408,
-      "changePercentage24h": -1.18,
+      "priceTomans": 393113,
+      "changePercentage24h": -1.86,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "rune",
       "titleFa": "ثور چین - تومان (RUNE)",
-      "priceTomans": 157201,
-      "changePercentage24h": -0.15,
+      "priceTomans": 157528,
+      "changePercentage24h": 3.18,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "s",
       "titleFa": "سونیک - تومان (S)",
-      "priceTomans": 9607,
-      "changePercentage24h": -1.29,
+      "priceTomans": 9821,
+      "changePercentage24h": -0.28,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "safe",
       "titleFa": "سیف - تومان (SAFE)",
-      "priceTomans": 23375,
-      "changePercentage24h": 3.3,
+      "priceTomans": 22743,
+      "changePercentage24h": 0.83,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "sahara",
       "titleFa": "ساهارا ای‌آی - تومان (SAHARA)",
-      "priceTomans": 1571,
-      "changePercentage24h": 0.13,
+      "priceTomans": 1555,
+      "changePercentage24h": -4.31,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "sand",
       "titleFa": "سندباکس - تومان (SAND)",
-      "priceTomans": 11061,
-      "changePercentage24h": -1.19,
+      "priceTomans": 11068,
+      "changePercentage24h": -1.7,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "sei",
       "titleFa": "سی - تومان (SEI)",
-      "priceTomans": 11356,
-      "changePercentage24h": -0.39,
+      "priceTomans": 11360,
+      "changePercentage24h": 1.12,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -2971,23 +2923,23 @@
       "symbol": "shib",
       "titleFa": "شیبا - تومان (SHIB)",
       "priceTomans": 1,
-      "changePercentage24h": 0.21,
+      "changePercentage24h": -1.19,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "skl",
       "titleFa": "اسکیل - تومان (SKL)",
-      "priceTomans": 908,
-      "changePercentage24h": -1.73,
+      "priceTomans": 900,
+      "changePercentage24h": -2.6,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "sky",
       "titleFa": "اسکای - تومان (SKY)",
-      "priceTomans": 15400,
-      "changePercentage24h": -0.8,
+      "priceTomans": 15520,
+      "changePercentage24h": -1.28,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -2995,47 +2947,39 @@
       "symbol": "slp",
       "titleFa": "اسموث لاو پوشن - تومان (SLP)",
       "priceTomans": 121,
-      "changePercentage24h": 0.05,
+      "changePercentage24h": -5.7,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "slvon",
       "titleFa": "گواهی نقره دیجیتال - تومان (SLVON)",
-      "priceTomans": 12500800,
-      "changePercentage24h": 2.33,
-      "category": "crypto",
-      "source": "Wallex"
-    },
-    {
-      "symbol": "snx",
-      "titleFa": "سینتِتیکس - تومان (SNX)",
-      "priceTomans": 42548,
-      "changePercentage24h": 0.0,
+      "priceTomans": 12332003,
+      "changePercentage24h": 0.22,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "soon",
       "titleFa": "سون - تومان (SOON)",
-      "priceTomans": 62134,
-      "changePercentage24h": 3.16,
+      "priceTomans": 62640,
+      "changePercentage24h": 0.81,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "strk",
       "titleFa": "استارک نت - تومان (STRK)",
-      "priceTomans": 9718,
-      "changePercentage24h": -0.4,
+      "priceTomans": 9843,
+      "changePercentage24h": -1.97,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "sui",
       "titleFa": "سالمونشن - تومان (SUI)",
-      "priceTomans": 217720,
-      "changePercentage24h": 1.06,
+      "priceTomans": 216862,
+      "changePercentage24h": -2.8,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -3043,79 +2987,79 @@
       "symbol": "super",
       "titleFa": "سوپرورس - تومان (SUPER)",
       "priceTomans": 41208,
-      "changePercentage24h": -0.58,
+      "changePercentage24h": -1.19,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "sushi",
       "titleFa": "سوشی سواپ - تومان (SUSHI)",
-      "priceTomans": 45337,
-      "changePercentage24h": -1.79,
+      "priceTomans": 45574,
+      "changePercentage24h": -0.84,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "syrup",
       "titleFa": "میپل فایننس - تومان (SYRUP)",
-      "priceTomans": 35999,
-      "changePercentage24h": 0.0,
+      "priceTomans": 33134,
+      "changePercentage24h": -7.96,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "t",
       "titleFa": "ترشولد - تومان (T)",
-      "priceTomans": 1156,
-      "changePercentage24h": 0.35,
+      "priceTomans": 1178,
+      "changePercentage24h": -1.67,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "tao",
       "titleFa": "بیتنسور - تومان (TAO)",
-      "priceTomans": 56796619,
-      "changePercentage24h": -1.69,
+      "priceTomans": 56404040,
+      "changePercentage24h": -4.17,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "tia",
       "titleFa": "سلستیا - تومان (TIA)",
-      "priceTomans": 104806,
-      "changePercentage24h": -8.52,
+      "priceTomans": 113839,
+      "changePercentage24h": 0.43,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "tnsr",
       "titleFa": "تنسور - تومان (TNSR)",
-      "priceTomans": 6460,
-      "changePercentage24h": 0.94,
+      "priceTomans": 6587,
+      "changePercentage24h": 2.57,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "toshi",
       "titleFa": "توشی - تومان (TOSHI)",
-      "priceTomans": 26,
-      "changePercentage24h": 12.17,
+      "priceTomans": 24,
+      "changePercentage24h": 4.71,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "trb",
       "titleFa": "تلور - تومان (TRB)",
-      "priceTomans": 3993023,
-      "changePercentage24h": 1.45,
+      "priceTomans": 3944395,
+      "changePercentage24h": -1.22,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "turbo",
       "titleFa": "توربو - تومان (TURBO)",
-      "priceTomans": 179,
-      "changePercentage24h": 4.68,
+      "priceTomans": 183,
+      "changePercentage24h": 1.67,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -3123,54 +3067,54 @@
       "symbol": "uma",
       "titleFa": "اوما - تومان (UMA)",
       "priceTomans": 79565,
-      "changePercentage24h": -0.01,
+      "changePercentage24h": -0.2,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "ungon",
       "titleFa": "گواهی گاز طبیعی دیجیتال - تومان (UNGON)",
-      "priceTomans": 2702394,
-      "changePercentage24h": 0.35,
+      "priceTomans": 2840000,
+      "changePercentage24h": 7.07,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "uni",
       "titleFa": "یونی سوآپ - تومان (UNI)",
-      "priceTomans": 1645234,
-      "changePercentage24h": -1.28,
+      "priceTomans": 1625897,
+      "changePercentage24h": -6.36,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "usdc",
       "titleFa": "یو اس دی کوین - تومان (USDC)",
-      "priceTomans": 265000,
-      "changePercentage24h": 2.24,
+      "priceTomans": 267896,
+      "changePercentage24h": 1.8,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "usds",
       "titleFa": "یو اس دی اس - تومان (USDS)",
-      "priceTomans": 262721,
-      "changePercentage24h": 2.16,
+      "priceTomans": 271000,
+      "changePercentage24h": 3.15,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "usoon",
       "titleFa": "گواهی نفت دیجیتال - تومان (USOON)",
-      "priceTomans": 38194993,
-      "changePercentage24h": 0.36,
+      "priceTomans": 40391258,
+      "changePercentage24h": 5.24,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "virtual",
       "titleFa": "ویرچوال پروتکل - تومان (VIRTUAL)",
-      "priceTomans": 140993,
+      "priceTomans": 126884,
       "changePercentage24h": 0.0,
       "category": "crypto",
       "source": "Wallex"
@@ -3178,96 +3122,96 @@
     {
       "symbol": "w",
       "titleFa": "W - تومان (W)",
-      "priceTomans": 2700,
-      "changePercentage24h": -3.57,
+      "priceTomans": 2680,
+      "changePercentage24h": -3.74,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "wif",
       "titleFa": "داگ ویف هت - تومان (WIF)",
-      "priceTomans": 40561,
-      "changePercentage24h": -2.92,
+      "priceTomans": 40480,
+      "changePercentage24h": 1.53,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "wld",
       "titleFa": "ورلد کوین - تومان (WLD)",
-      "priceTomans": 81776,
-      "changePercentage24h": 0.74,
+      "priceTomans": 81439,
+      "changePercentage24h": -2.01,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "xaut",
       "titleFa": "تترگلد - تومان (XAUT)",
-      "priceTomans": 1053545804,
-      "changePercentage24h": -0.02,
+      "priceTomans": 1050054913,
+      "changePercentage24h": -0.05,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "xlm",
       "titleFa": "استلار - تومان (XLM)",
-      "priceTomans": 39081,
-      "changePercentage24h": -1.81,
+      "priceTomans": 40360,
+      "changePercentage24h": -1.56,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "xmr",
       "titleFa": "مونرو - تومان (XMR)",
-      "priceTomans": 148737503,
-      "changePercentage24h": -1.34,
+      "priceTomans": 146259804,
+      "changePercentage24h": -5.51,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "xpl",
       "titleFa": "پلاسما - تومان (XPL)",
-      "priceTomans": 13001,
-      "changePercentage24h": -6.8,
+      "priceTomans": 13130,
+      "changePercentage24h": 0.99,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "xtz",
       "titleFa": "تزوس - تومان (XTZ)",
-      "priceTomans": 62754,
-      "changePercentage24h": -1.11,
+      "priceTomans": 63501,
+      "changePercentage24h": 0.27,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "yfi",
       "titleFa": "یرن فایننس - تومان (YFI)",
-      "priceTomans": 496845115,
-      "changePercentage24h": -2.05,
+      "priceTomans": 495160880,
+      "changePercentage24h": -2.72,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "zec",
       "titleFa": "زی کش - تومان (ZEC)",
-      "priceTomans": 265924163,
-      "changePercentage24h": 2.28,
+      "priceTomans": 261999999,
+      "changePercentage24h": -5.76,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "zen",
       "titleFa": "هورایزن - تومان (ZEN)",
-      "priceTomans": 1253270,
-      "changePercentage24h": -2.32,
+      "priceTomans": 1240578,
+      "changePercentage24h": -1.02,
       "category": "crypto",
       "source": "Wallex"
     },
     {
       "symbol": "zil",
       "titleFa": "زیلیکا - تومان (ZIL)",
-      "priceTomans": 407,
-      "changePercentage24h": -0.25,
+      "priceTomans": 416,
+      "changePercentage24h": -0.95,
       "category": "crypto",
       "source": "Wallex"
     },
@@ -3275,7 +3219,15 @@
       "symbol": "zora",
       "titleFa": "زورا - تومان (ZORA)",
       "priceTomans": 1258,
-      "changePercentage24h": -0.96,
+      "changePercentage24h": 0.0,
+      "category": "crypto",
+      "source": "Wallex"
+    },
+    {
+      "symbol": "zrx",
+      "titleFa": "زیرو ایکس پروتکل - تومان (ZRX)",
+      "priceTomans": 23249,
+      "changePercentage24h": 0.11,
       "category": "crypto",
       "source": "Wallex"
     }
