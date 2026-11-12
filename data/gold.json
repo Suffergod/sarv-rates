@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-12T18:23:31.137627+00:00",
+  "updatedAt": "2026-11-12T23:48:24.827099+00:00",
   "count": 22,
   "items": [
     {
       "symbol": "18ayar",
       "titleFa": "طلای ۱۸ عیار (هر گرم)",
       "priceTomans": 25038800,
-      "changePercentage24h": 0.56,
+      "changePercentage24h": 0.0,
       "category": "gold",
       "source": "TGJU"
     },
@@ -14,7 +14,7 @@
       "symbol": "24ayar",
       "titleFa": "طلای ۲۴ عیار (هر گرم)",
       "priceTomans": 33384700,
-      "changePercentage24h": 0.56,
+      "changePercentage24h": 0.0,
       "category": "gold",
       "source": "TGJU"
     },
@@ -22,7 +22,7 @@
       "symbol": "sekkeh",
       "titleFa": "سکه تمام بهار آزادی (امامی)",
       "priceTomans": 253965000,
-      "changePercentage24h": 0.16,
+      "changePercentage24h": 0.0,
       "category": "gold",
       "source": "TGJU"
     },
@@ -30,7 +30,7 @@
       "symbol": "bahar",
       "titleFa": "سکه بهار آزادی (طرح قدیم)",
       "priceTomans": 247045000,
-      "changePercentage24h": 0.09,
+      "changePercentage24h": 0.0,
       "category": "gold",
       "source": "TGJU"
     },
@@ -38,7 +38,7 @@
       "symbol": "nim",
       "titleFa": "نیم سکه بهار آزادی",
       "priceTomans": 133190000,
-      "changePercentage24h": 0.3,
+      "changePercentage24h": 0.0,
       "category": "gold",
       "source": "TGJU"
     },
@@ -46,7 +46,7 @@
       "symbol": "rob",
       "titleFa": "ربع سکه بهار آزادی",
       "priceTomans": 72490000,
-      "changePercentage24h": 0.17,
+      "changePercentage24h": 0.0,
       "category": "gold",
       "source": "TGJU"
     },
@@ -62,7 +62,7 @@
       "symbol": "abshodeh",
       "titleFa": "طلای آب‌شده (مثقال)",
       "priceTomans": 108455000,
-      "changePercentage24h": 0.57,
+      "changePercentage24h": 0.0,
       "category": "gold",
       "source": "TGJU"
     },
@@ -70,7 +70,7 @@
       "symbol": "ons",
       "titleFa": "انس جهانی طلا (دلار)",
       "priceTomans": 3880,
-      "changePercentage24h": 2.75,
+      "changePercentage24h": 0.14,
       "category": "gold",
       "source": "TGJU"
     },
@@ -78,7 +78,7 @@
       "symbol": "parsian_100",
       "titleFa": "سکه پارسیان ۱۰۰ سوت",
       "priceTomans": 2563880,
-      "changePercentage24h": 0.56,
+      "changePercentage24h": 0.0,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
@@ -86,7 +86,7 @@
       "symbol": "parsian_1000",
       "titleFa": "سکه پارسیان ۱ گرمی (۱۰۰۰ سوت)",
       "priceTomans": 25098800,
-      "changePercentage24h": 0.56,
+      "changePercentage24h": 0.0,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
@@ -94,7 +94,7 @@
       "symbol": "parsian_1200",
       "titleFa": "سکه پارسیان ۱.۲ گرمی",
       "priceTomans": 30106560,
-      "changePercentage24h": 0.56,
+      "changePercentage24h": 0.0,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
@@ -102,7 +102,7 @@
       "symbol": "parsian_1500",
       "titleFa": "سکه پارسیان ۱.۵ گرمی",
       "priceTomans": 37618200,
-      "changePercentage24h": 0.56,
+      "changePercentage24h": 0.0,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
@@ -110,7 +110,7 @@
       "symbol": "parsian_200",
       "titleFa": "سکه پارسیان ۲۰۰ سوت",
       "priceTomans": 5067760,
-      "changePercentage24h": 0.56,
+      "changePercentage24h": 0.0,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
@@ -118,7 +118,7 @@
       "symbol": "parsian_2000",
       "titleFa": "سکه پارسیان ۲ گرمی",
       "priceTomans": 50137600,
-      "changePercentage24h": 0.56,
+      "changePercentage24h": 0.0,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
@@ -126,7 +126,7 @@
       "symbol": "parsian_300",
       "titleFa": "سکه پارسیان ۳۰۰ سوت",
       "priceTomans": 7571640,
-      "changePercentage24h": 0.56,
+      "changePercentage24h": 0.0,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
@@ -134,7 +134,7 @@
       "symbol": "parsian_400",
       "titleFa": "سکه پارسیان ۴۰۰ سوت",
       "priceTomans": 10075520,
-      "changePercentage24h": 0.56,
+      "changePercentage24h": 0.0,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
@@ -142,7 +142,7 @@
       "symbol": "parsian_500",
       "titleFa": "سکه پارسیان ۵۰۰ سوت (نیم گرم)",
       "priceTomans": 12579400,
-      "changePercentage24h": 0.56,
+      "changePercentage24h": 0.0,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
@@ -150,7 +150,7 @@
       "symbol": "parsian_600",
       "titleFa": "سکه پارسیان ۶۰۰ سوت",
       "priceTomans": 15083280,
-      "changePercentage24h": 0.56,
+      "changePercentage24h": 0.0,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
@@ -158,7 +158,7 @@
       "symbol": "parsian_700",
       "titleFa": "سکه پارسیان ۷۰۰ سوت",
       "priceTomans": 17587160,
-      "changePercentage24h": 0.56,
+      "changePercentage24h": 0.0,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
@@ -166,7 +166,7 @@
       "symbol": "parsian_800",
       "titleFa": "سکه پارسیان ۸۰۰ سوت",
       "priceTomans": 20091040,
-      "changePercentage24h": 0.56,
+      "changePercentage24h": 0.0,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     },
@@ -174,7 +174,7 @@
       "symbol": "parsian_900",
       "titleFa": "سکه پارسیان ۹۰۰ سوت",
       "priceTomans": 22594920,
-      "changePercentage24h": 0.56,
+      "changePercentage24h": 0.0,
       "category": "gold",
       "source": "Formula Derived (Spot 18k Gold)"
     }
