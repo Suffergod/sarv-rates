@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T20:36:43.690958+00:00",
+  "updatedAt": "2026-11-19T02:01:55.322368+00:00",
   "count": 22,
   "items": [
     {
@@ -29,7 +29,7 @@
     {
       "symbol": "bahar",
       "titleFa": "سکه بهار آزادی (طرح قدیم)",
-      "priceTomans": 240745000,
+      "priceTomans": 240750000,
       "changePercentage24h": 0.0,
       "category": "gold",
       "source": "TGJU"
@@ -69,8 +69,8 @@
     {
       "symbol": "ons",
       "titleFa": "انس جهانی طلا (دلار)",
-      "priceTomans": 3726,
-      "changePercentage24h": 0.01,
+      "priceTomans": 3752,
+      "changePercentage24h": 0.71,
       "category": "gold",
       "source": "TGJU"
     },
