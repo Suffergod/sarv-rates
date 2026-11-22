@@ -1,172 +1,172 @@
 {
-  "updatedAt": "2026-11-22T16:18:52.611282+00:00",
+  "updatedAt": "2026-11-22T21:57:04.758222+00:00",
   "count": 21,
   "items": [
     {
       "symbol": "usd",
       "titleFa": "دلار آمریکا (آزاد)",
-      "priceTomans": 268960,
-      "changePercentage24h": 0.0,
+      "priceTomans": 267340,
+      "changePercentage24h": 0.61,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "eur",
       "titleFa": "یورو اروپا",
-      "priceTomans": 295560,
-      "changePercentage24h": 0.0,
+      "priceTomans": 293830,
+      "changePercentage24h": 0.59,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "gbp",
       "titleFa": "پوند انگلیس",
-      "priceTomans": 352090,
-      "changePercentage24h": 0.0,
+      "priceTomans": 350030,
+      "changePercentage24h": 0.59,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "aed",
       "titleFa": "درهم امارات",
-      "priceTomans": 73274,
-      "changePercentage24h": 0.0,
+      "priceTomans": 72845,
+      "changePercentage24h": 0.59,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "try",
       "titleFa": "لیر ترکیه",
-      "priceTomans": 5350,
-      "changePercentage24h": 0.0,
+      "priceTomans": 5320,
+      "changePercentage24h": 0.56,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "cad",
       "titleFa": "دلار کانادا",
-      "priceTomans": 187570,
-      "changePercentage24h": 0.0,
+      "priceTomans": 186470,
+      "changePercentage24h": 0.59,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "aud",
       "titleFa": "دلار استرالیا",
-      "priceTomans": 178180,
-      "changePercentage24h": 0.0,
+      "priceTomans": 177140,
+      "changePercentage24h": 0.59,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "cny",
       "titleFa": "یوان چین",
-      "priceTomans": 40300,
-      "changePercentage24h": 0.0,
+      "priceTomans": 40050,
+      "changePercentage24h": 0.62,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "kwd",
       "titleFa": "دینار کویت",
-      "priceTomans": 863930,
-      "changePercentage24h": 0.0,
+      "priceTomans": 858870,
+      "changePercentage24h": 0.59,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "iqd",
       "titleFa": "صد دینار عراق",
-      "priceTomans": 177,
-      "changePercentage24h": 0.0,
+      "priceTomans": 176,
+      "changePercentage24h": 0.57,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "amd",
       "titleFa": "درام ارمنستان",
-      "priceTomans": 723,
-      "changePercentage24h": 0.0,
+      "priceTomans": 718,
+      "changePercentage24h": 0.7,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "azn",
       "titleFa": "منات آذربایجان",
-      "priceTomans": 158170,
-      "changePercentage24h": 0.0,
+      "priceTomans": 157240,
+      "changePercentage24h": 0.59,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "chf",
       "titleFa": "فرانک سوئیس",
-      "priceTomans": 320320,
-      "changePercentage24h": 0.0,
+      "priceTomans": 318440,
+      "changePercentage24h": 0.59,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "gel",
       "titleFa": "لاری گرجستان",
-      "priceTomans": 103590,
-      "changePercentage24h": 0.0,
+      "priceTomans": 102990,
+      "changePercentage24h": 0.58,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "inr",
       "titleFa": "روپیه هند",
-      "priceTomans": 2901,
-      "changePercentage24h": 0.0,
+      "priceTomans": 2884,
+      "changePercentage24h": 0.59,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "jpy",
       "titleFa": "صد ین ژاپن",
-      "priceTomans": 169838,
-      "changePercentage24h": 0.0,
+      "priceTomans": 168845,
+      "changePercentage24h": 0.59,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "omr",
       "titleFa": "ریال عمان",
-      "priceTomans": 699710,
-      "changePercentage24h": 0.0,
+      "priceTomans": 695620,
+      "changePercentage24h": 0.59,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "pkr",
       "titleFa": "روپیه پاکستان",
-      "priceTomans": 992,
-      "changePercentage24h": 0.0,
+      "priceTomans": 986,
+      "changePercentage24h": 0.58,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "qar",
       "titleFa": "ریال قطر",
-      "priceTomans": 75800,
-      "changePercentage24h": 0.0,
+      "priceTomans": 75370,
+      "changePercentage24h": 0.57,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "rub",
       "titleFa": "روبل روسیه",
-      "priceTomans": 3282,
-      "changePercentage24h": 0.0,
+      "priceTomans": 3263,
+      "changePercentage24h": 0.58,
       "category": "fiat",
       "source": "TGJU"
     },
     {
       "symbol": "sar",
       "titleFa": "ریال عربستان",
-      "priceTomans": 71714,
-      "changePercentage24h": 0.0,
+      "priceTomans": 71294,
+      "changePercentage24h": 0.59,
       "category": "fiat",
       "source": "TGJU"
     }
